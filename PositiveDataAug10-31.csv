@@ -1,0 +1,2297 @@
+Gender,Sector,Age,Vacc Period,Epi Day,Cohort,N_person,Rate_per_1K
+female,General Jewish,60-69,JanB,10/08/2021,2nd,55677,1.131526483
+female,General Jewish,60-69,FebA,10/08/2021,2nd,51026,0.744718379
+female,General Jewish,60-69,FebB,10/08/2021,2nd,12609,0.951701166
+female,General Jewish,70-79,JanB,10/08/2021,2nd,38023,0.736396392
+female,General Jewish,70-79,FebA,10/08/2021,2nd,32096,0.841226321
+female,General Jewish,70-79,FebB,10/08/2021,2nd,6742,0.444971818
+female,General Jewish,80+,JanB,10/08/2021,2nd,23996,0.833472245
+female,General Jewish,80+,FebA,10/08/2021,2nd,22461,0.489737768
+female,General Jewish,80+,FebB,10/08/2021,2nd,4328,0.462107209
+female,Arab,60-69,JanB,10/08/2021,2nd,3984,0.251004016
+female,Arab,60-69,FebA,10/08/2021,2nd,8547,0.234000234
+female,Arab,60-69,FebB,10/08/2021,2nd,3532,0
+female,Arab,70-79,JanB,10/08/2021,2nd,2220,0
+female,Arab,70-79,FebA,10/08/2021,2nd,4596,0.652741514
+female,Arab,70-79,FebB,10/08/2021,2nd,1747,0.572409845
+female,Arab,80+,JanB,10/08/2021,2nd,1158,0
+female,Arab,80+,FebA,10/08/2021,2nd,1833,0
+female,Arab,80+,FebB,10/08/2021,2nd,664,0
+female,ultra-Orthodox Jews,60-69,JanB,10/08/2021,2nd,2335,0.428265525
+female,ultra-Orthodox Jews,60-69,FebA,10/08/2021,2nd,2477,0.40371417
+female,ultra-Orthodox Jews,60-69,FebB,10/08/2021,2nd,838,0
+female,ultra-Orthodox Jews,70-79,JanB,10/08/2021,2nd,1736,0.576036866
+female,ultra-Orthodox Jews,70-79,FebA,10/08/2021,2nd,1789,0
+female,ultra-Orthodox Jews,70-79,FebB,10/08/2021,2nd,484,0
+female,ultra-Orthodox Jews,80+,JanB,10/08/2021,2nd,1162,0.860585198
+female,ultra-Orthodox Jews,80+,FebA,10/08/2021,2nd,1164,0
+female,ultra-Orthodox Jews,80+,FebB,10/08/2021,2nd,252,0
+male,General Jewish,60-69,JanB,10/08/2021,2nd,46571,1.009211741
+male,General Jewish,60-69,FebA,10/08/2021,2nd,41143,0.826386019
+male,General Jewish,60-69,FebB,10/08/2021,2nd,10037,1.195576367
+male,General Jewish,70-79,JanB,10/08/2021,2nd,31116,1.189098856
+male,General Jewish,70-79,FebA,10/08/2021,2nd,22416,0.892219843
+male,General Jewish,70-79,FebB,10/08/2021,2nd,4382,1.141031492
+male,General Jewish,80+,JanB,10/08/2021,2nd,16030,0.810979414
+male,General Jewish,80+,FebA,10/08/2021,2nd,13435,0.967621883
+male,General Jewish,80+,FebB,10/08/2021,2nd,2416,0.413907285
+male,Arab,60-69,JanB,10/08/2021,2nd,4852,1.030502885
+male,Arab,60-69,FebA,10/08/2021,2nd,7899,0.253196607
+male,Arab,60-69,FebB,10/08/2021,2nd,3339,0.598981731
+male,Arab,70-79,JanB,10/08/2021,2nd,2176,0.459558824
+male,Arab,70-79,FebA,10/08/2021,2nd,3772,0.79533404
+male,Arab,70-79,FebB,10/08/2021,2nd,1267,0
+male,Arab,80+,JanB,10/08/2021,2nd,920,1.086956522
+male,Arab,80+,FebA,10/08/2021,2nd,1455,0
+male,Arab,80+,FebB,10/08/2021,2nd,429,0
+male,ultra-Orthodox Jews,60-69,JanB,10/08/2021,2nd,2290,0.873362445
+male,ultra-Orthodox Jews,60-69,FebA,10/08/2021,2nd,2182,0.458295142
+male,ultra-Orthodox Jews,60-69,FebB,10/08/2021,2nd,705,0
+male,ultra-Orthodox Jews,70-79,JanB,10/08/2021,2nd,1484,1.347708895
+male,ultra-Orthodox Jews,70-79,FebA,10/08/2021,2nd,1236,2.427184466
+male,ultra-Orthodox Jews,70-79,FebB,10/08/2021,2nd,311,0
+male,ultra-Orthodox Jews,80+,JanB,10/08/2021,2nd,761,2.628120894
+male,ultra-Orthodox Jews,80+,FebA,10/08/2021,2nd,708,0
+male,ultra-Orthodox Jews,80+,FebB,10/08/2021,2nd,140,0
+female,General Jewish,60-69,JanB,11/08/2021,2nd,48523,0.906786472
+female,General Jewish,60-69,JanB,11/08/2021,12+,588,0
+female,General Jewish,60-69,FebA,11/08/2021,2nd,47117,0.848950485
+female,General Jewish,60-69,FebA,11/08/2021,12+,55,0
+female,General Jewish,60-69,FebB,11/08/2021,2nd,12140,0.741350906
+female,General Jewish,60-69,FebB,11/08/2021,12+,<5,0
+female,General Jewish,70-79,JanB,11/08/2021,2nd,31455,1.144492132
+female,General Jewish,70-79,JanB,11/08/2021,12+,538,0
+female,General Jewish,70-79,FebA,11/08/2021,2nd,28736,0.83518931
+female,General Jewish,70-79,FebA,11/08/2021,12+,34,0
+female,General Jewish,70-79,FebB,11/08/2021,2nd,6396,0.781738587
+female,General Jewish,70-79,FebB,11/08/2021,12+,<5,0
+female,General Jewish,80+,JanB,11/08/2021,2nd,20314,0.787634144
+female,General Jewish,80+,JanB,11/08/2021,12+,159,0
+female,General Jewish,80+,FebA,11/08/2021,2nd,20143,0.595740456
+female,General Jewish,80+,FebA,11/08/2021,12+,23,0
+female,General Jewish,80+,FebB,11/08/2021,2nd,4109,0.243368216
+female,General Jewish,80+,FebB,11/08/2021,12+,<5,0
+female,Arab,60-69,JanB,11/08/2021,2nd,3660,0.273224044
+female,Arab,60-69,JanB,11/08/2021,12+,8,0
+female,Arab,60-69,FebA,11/08/2021,2nd,8155,0.367872471
+female,Arab,60-69,FebA,11/08/2021,12+,<5,0
+female,Arab,60-69,FebB,11/08/2021,2nd,3449,0.579878226
+female,Arab,70-79,JanB,11/08/2021,2nd,2006,0
+female,Arab,70-79,JanB,11/08/2021,12+,<5,0
+female,Arab,70-79,FebA,11/08/2021,2nd,4366,0.458085204
+female,Arab,70-79,FebB,11/08/2021,2nd,1691,1.182732111
+female,Arab,70-79,FebB,11/08/2021,12+,<5,0
+female,Arab,80+,JanB,11/08/2021,2nd,1057,0
+female,Arab,80+,JanB,11/08/2021,12+,<5,0
+female,Arab,80+,FebA,11/08/2021,2nd,1739,2.300172513
+female,Arab,80+,FebA,11/08/2021,12+,<5,0
+female,Arab,80+,FebB,11/08/2021,2nd,647,0
+female,ultra-Orthodox Jews,60-69,JanB,11/08/2021,2nd,2070,1.93236715
+female,ultra-Orthodox Jews,60-69,JanB,11/08/2021,12+,9,0
+female,ultra-Orthodox Jews,60-69,FebA,11/08/2021,2nd,2300,1.304347826
+female,ultra-Orthodox Jews,60-69,FebA,11/08/2021,12+,<5,0
+female,ultra-Orthodox Jews,60-69,FebB,11/08/2021,2nd,814,3.685503686
+female,ultra-Orthodox Jews,70-79,JanB,11/08/2021,2nd,1470,2.040816327
+female,ultra-Orthodox Jews,70-79,JanB,11/08/2021,12+,18,0
+female,ultra-Orthodox Jews,70-79,FebA,11/08/2021,2nd,1622,1.233045623
+female,ultra-Orthodox Jews,70-79,FebA,11/08/2021,12+,<5,0
+female,ultra-Orthodox Jews,70-79,FebB,11/08/2021,2nd,460,0
+female,ultra-Orthodox Jews,80+,JanB,11/08/2021,2nd,1024,0.9765625
+female,ultra-Orthodox Jews,80+,JanB,11/08/2021,12+,<5,0
+female,ultra-Orthodox Jews,80+,FebA,11/08/2021,2nd,1076,0.92936803
+female,ultra-Orthodox Jews,80+,FebA,11/08/2021,12+,<5,0
+female,ultra-Orthodox Jews,80+,FebB,11/08/2021,2nd,239,0
+male,General Jewish,60-69,JanB,11/08/2021,2nd,39907,1.277971283
+male,General Jewish,60-69,JanB,11/08/2021,12+,905,0
+male,General Jewish,60-69,FebA,11/08/2021,2nd,37567,0.612239465
+male,General Jewish,60-69,FebA,11/08/2021,12+,85,0
+male,General Jewish,60-69,FebB,11/08/2021,2nd,9593,1.146669446
+male,General Jewish,60-69,FebB,11/08/2021,12+,7,0
+male,General Jewish,70-79,JanB,11/08/2021,2nd,25311,0.987712852
+male,General Jewish,70-79,JanB,11/08/2021,12+,766,0
+male,General Jewish,70-79,FebA,11/08/2021,2nd,19817,0.605540697
+male,General Jewish,70-79,FebA,11/08/2021,12+,54,0
+male,General Jewish,70-79,FebB,11/08/2021,2nd,4112,0.729571984
+male,General Jewish,70-79,FebB,11/08/2021,12+,6,0
+male,General Jewish,80+,JanB,11/08/2021,2nd,13226,1.285347044
+male,General Jewish,80+,JanB,11/08/2021,12+,249,0
+male,General Jewish,80+,FebA,11/08/2021,2nd,11924,1.50956055
+male,General Jewish,80+,FebA,11/08/2021,12+,19,0
+male,General Jewish,80+,FebB,11/08/2021,2nd,2258,0.442869796
+male,General Jewish,80+,FebB,11/08/2021,12+,<5,0
+male,Arab,60-69,JanB,11/08/2021,2nd,4356,0.229568411
+male,Arab,60-69,JanB,11/08/2021,12+,16,0
+male,Arab,60-69,FebA,11/08/2021,2nd,7408,0
+male,Arab,60-69,FebA,11/08/2021,12+,<5,0
+male,Arab,60-69,FebB,11/08/2021,2nd,3221,0.931387768
+male,Arab,70-79,JanB,11/08/2021,2nd,1913,2.090956613
+male,Arab,70-79,JanB,11/08/2021,12+,12,0
+male,Arab,70-79,FebA,11/08/2021,2nd,3458,0.578368999
+male,Arab,70-79,FebA,11/08/2021,12+,<5,0
+male,Arab,70-79,FebB,11/08/2021,2nd,1219,0
+male,Arab,80+,JanB,11/08/2021,2nd,800,0
+male,Arab,80+,FebA,11/08/2021,2nd,1363,0.733675715
+male,Arab,80+,FebB,11/08/2021,2nd,417,0
+male,ultra-Orthodox Jews,60-69,JanB,11/08/2021,2nd,2025,0.49382716
+male,ultra-Orthodox Jews,60-69,JanB,11/08/2021,12+,29,0
+male,ultra-Orthodox Jews,60-69,FebA,11/08/2021,2nd,1969,1.523616049
+male,ultra-Orthodox Jews,60-69,FebA,11/08/2021,12+,<5,0
+male,ultra-Orthodox Jews,60-69,FebB,11/08/2021,2nd,676,0
+male,ultra-Orthodox Jews,70-79,JanB,11/08/2021,2nd,1239,1.614205004
+male,ultra-Orthodox Jews,70-79,JanB,11/08/2021,12+,22,0
+male,ultra-Orthodox Jews,70-79,FebA,11/08/2021,2nd,1113,0.898472597
+male,ultra-Orthodox Jews,70-79,FebA,11/08/2021,12+,<5,0
+male,ultra-Orthodox Jews,70-79,FebB,11/08/2021,2nd,291,0
+male,ultra-Orthodox Jews,80+,JanB,11/08/2021,2nd,642,0
+male,ultra-Orthodox Jews,80+,JanB,11/08/2021,12+,12,0
+male,ultra-Orthodox Jews,80+,FebA,11/08/2021,2nd,623,1.605136437
+male,ultra-Orthodox Jews,80+,FebA,11/08/2021,12+,<5,0
+male,ultra-Orthodox Jews,80+,FebB,11/08/2021,2nd,132,0
+female,General Jewish,60-69,JanB,12/08/2021,2nd,41486,0.915971653
+female,General Jewish,60-69,JanB,12/08/2021,12+,1682,0
+female,General Jewish,60-69,FebA,12/08/2021,2nd,42965,0.814616548
+female,General Jewish,60-69,FebA,12/08/2021,12+,149,0
+female,General Jewish,60-69,FebB,12/08/2021,2nd,11570,0.864304235
+female,General Jewish,60-69,FebB,12/08/2021,12+,<5,0
+female,General Jewish,70-79,JanB,12/08/2021,2nd,25687,0.62288317
+female,General Jewish,70-79,JanB,12/08/2021,12+,1482,0
+female,General Jewish,70-79,FebA,12/08/2021,2nd,25406,0.708494057
+female,General Jewish,70-79,FebA,12/08/2021,12+,115,8.695652174
+female,General Jewish,70-79,FebB,12/08/2021,2nd,5994,0.333667
+female,General Jewish,70-79,FebB,12/08/2021,12+,<5,0
+female,General Jewish,80+,JanB,12/08/2021,2nd,17024,0.587406015
+female,General Jewish,80+,JanB,12/08/2021,12+,433,0
+female,General Jewish,80+,FebA,12/08/2021,2nd,17818,0.617353238
+female,General Jewish,80+,FebA,12/08/2021,12+,70,0
+female,General Jewish,80+,FebB,12/08/2021,2nd,3889,0.25713551
+female,General Jewish,80+,FebB,12/08/2021,12+,<5,0
+female,Arab,60-69,JanB,12/08/2021,2nd,3325,0.30075188
+female,Arab,60-69,JanB,12/08/2021,12+,27,0
+female,Arab,60-69,FebA,12/08/2021,2nd,7767,0.128749839
+female,Arab,60-69,FebA,12/08/2021,12+,11,0
+female,Arab,60-69,FebB,12/08/2021,2nd,3353,0
+female,Arab,60-69,FebB,12/08/2021,12+,<5,0
+female,Arab,70-79,JanB,12/08/2021,2nd,1809,0.552791598
+female,Arab,70-79,JanB,12/08/2021,12+,11,0
+female,Arab,70-79,FebA,12/08/2021,2nd,4129,0.726568176
+female,Arab,70-79,FebA,12/08/2021,12+,7,0
+female,Arab,70-79,FebB,12/08/2021,2nd,1639,0
+female,Arab,70-79,FebB,12/08/2021,12+,<5,0
+female,Arab,80+,JanB,12/08/2021,2nd,992,1.008064516
+female,Arab,80+,JanB,12/08/2021,12+,<5,0
+female,Arab,80+,FebA,12/08/2021,2nd,1597,0.626174076
+female,Arab,80+,FebA,12/08/2021,12+,<5,0
+female,Arab,80+,FebB,12/08/2021,2nd,627,0
+female,ultra-Orthodox Jews,60-69,JanB,12/08/2021,2nd,1850,0.540540541
+female,ultra-Orthodox Jews,60-69,JanB,12/08/2021,12+,13,0
+female,ultra-Orthodox Jews,60-69,FebA,12/08/2021,2nd,2116,1.417769376
+female,ultra-Orthodox Jews,60-69,FebA,12/08/2021,12+,5,0
+female,ultra-Orthodox Jews,60-69,FebB,12/08/2021,2nd,780,0
+female,ultra-Orthodox Jews,70-79,JanB,12/08/2021,2nd,1248,2.403846154
+female,ultra-Orthodox Jews,70-79,JanB,12/08/2021,12+,20,0
+female,ultra-Orthodox Jews,70-79,FebA,12/08/2021,2nd,1434,0.69735007
+female,ultra-Orthodox Jews,70-79,FebA,12/08/2021,12+,<5,0
+female,ultra-Orthodox Jews,70-79,FebB,12/08/2021,2nd,433,0
+female,ultra-Orthodox Jews,80+,JanB,12/08/2021,2nd,866,4.618937644
+female,ultra-Orthodox Jews,80+,JanB,12/08/2021,12+,6,0
+female,ultra-Orthodox Jews,80+,FebA,12/08/2021,2nd,928,0
+female,ultra-Orthodox Jews,80+,FebA,12/08/2021,12+,<5,0
+female,ultra-Orthodox Jews,80+,FebB,12/08/2021,2nd,220,0
+male,General Jewish,60-69,JanB,12/08/2021,2nd,33869,0.85624022
+male,General Jewish,60-69,JanB,12/08/2021,12+,2211,0
+male,General Jewish,60-69,FebA,12/08/2021,2nd,34021,0.676053026
+male,General Jewish,60-69,FebA,12/08/2021,12+,199,0
+male,General Jewish,60-69,FebB,12/08/2021,2nd,9053,1.104606208
+male,General Jewish,60-69,FebB,12/08/2021,12+,12,0
+male,General Jewish,70-79,JanB,12/08/2021,2nd,20314,0.639952742
+male,General Jewish,70-79,JanB,12/08/2021,12+,1923,0
+male,General Jewish,70-79,FebA,12/08/2021,2nd,17343,0.980222568
+male,General Jewish,70-79,FebA,12/08/2021,12+,123,0
+male,General Jewish,70-79,FebB,12/08/2021,2nd,3809,0.787608296
+male,General Jewish,70-79,FebB,12/08/2021,12+,8,0
+male,General Jewish,80+,JanB,12/08/2021,2nd,10700,0.747663551
+male,General Jewish,80+,JanB,12/08/2021,12+,581,0
+male,General Jewish,80+,FebA,12/08/2021,2nd,10388,0.962649211
+male,General Jewish,80+,FebA,12/08/2021,12+,54,0
+male,General Jewish,80+,FebB,12/08/2021,2nd,2134,0.468603561
+male,General Jewish,80+,FebB,12/08/2021,12+,<5,0
+male,Arab,60-69,JanB,12/08/2021,2nd,3921,0.25503698
+male,Arab,60-69,JanB,12/08/2021,12+,61,0
+male,Arab,60-69,FebA,12/08/2021,2nd,6952,0.287686997
+male,Arab,60-69,FebA,12/08/2021,12+,11,0
+male,Arab,60-69,FebB,12/08/2021,2nd,3086,0
+male,Arab,60-69,FebB,12/08/2021,12+,<5,0
+male,Arab,70-79,JanB,12/08/2021,2nd,1677,0.596302922
+male,Arab,70-79,JanB,12/08/2021,12+,29,0
+male,Arab,70-79,FebA,12/08/2021,2nd,3184,0.628140704
+male,Arab,70-79,FebA,12/08/2021,12+,9,0
+male,Arab,70-79,FebB,12/08/2021,2nd,1163,0
+male,Arab,80+,JanB,12/08/2021,2nd,715,0
+male,Arab,80+,JanB,12/08/2021,12+,8,0
+male,Arab,80+,FebA,12/08/2021,2nd,1254,0.797448166
+male,Arab,80+,FebA,12/08/2021,12+,<5,0
+male,Arab,80+,FebB,12/08/2021,2nd,401,0
+male,ultra-Orthodox Jews,60-69,JanB,12/08/2021,2nd,1791,2.233389168
+male,ultra-Orthodox Jews,60-69,JanB,12/08/2021,12+,35,0
+male,ultra-Orthodox Jews,60-69,FebA,12/08/2021,2nd,1816,0.550660793
+male,ultra-Orthodox Jews,60-69,FebA,12/08/2021,12+,<5,0
+male,ultra-Orthodox Jews,60-69,FebB,12/08/2021,2nd,651,3.072196621
+male,ultra-Orthodox Jews,70-79,JanB,12/08/2021,2nd,1028,1.945525292
+male,ultra-Orthodox Jews,70-79,JanB,12/08/2021,12+,24,0
+male,ultra-Orthodox Jews,70-79,FebA,12/08/2021,2nd,997,0
+male,ultra-Orthodox Jews,70-79,FebA,12/08/2021,12+,<5,0
+male,ultra-Orthodox Jews,70-79,FebB,12/08/2021,2nd,274,3.649635036
+male,ultra-Orthodox Jews,80+,JanB,12/08/2021,2nd,529,1.890359168
+male,ultra-Orthodox Jews,80+,JanB,12/08/2021,12+,12,0
+male,ultra-Orthodox Jews,80+,FebA,12/08/2021,2nd,556,0
+male,ultra-Orthodox Jews,80+,FebA,12/08/2021,12+,<5,0
+male,ultra-Orthodox Jews,80+,FebB,12/08/2021,2nd,124,0
+female,General Jewish,60-69,JanB,13/08/2021,2nd,38246,0.444490927
+female,General Jewish,60-69,JanB,13/08/2021,12+,5664,0.176553672
+female,General Jewish,60-69,FebA,13/08/2021,2nd,40978,0.536873444
+female,General Jewish,60-69,FebA,13/08/2021,12+,676,0
+female,General Jewish,60-69,FebB,13/08/2021,2nd,11281,0.531867742
+female,General Jewish,60-69,FebB,13/08/2021,12+,40,0
+female,General Jewish,70-79,JanB,13/08/2021,2nd,23478,0.383337593
+female,General Jewish,70-79,JanB,13/08/2021,12+,6096,0.164041995
+female,General Jewish,70-79,FebA,13/08/2021,2nd,24063,0.581806092
+female,General Jewish,70-79,FebA,13/08/2021,12+,790,0
+female,General Jewish,70-79,FebB,13/08/2021,2nd,5840,0.171232877
+female,General Jewish,70-79,FebB,13/08/2021,12+,29,0
+female,General Jewish,80+,JanB,13/08/2021,2nd,15583,0.320862478
+female,General Jewish,80+,JanB,13/08/2021,12+,2825,0
+female,General Jewish,80+,FebA,13/08/2021,2nd,16820,0.237812128
+female,General Jewish,80+,FebA,13/08/2021,12+,594,0
+female,General Jewish,80+,FebB,13/08/2021,2nd,3772,0
+female,General Jewish,80+,FebB,13/08/2021,12+,19,0
+female,Arab,60-69,JanB,13/08/2021,2nd,3136,0
+female,Arab,60-69,JanB,13/08/2021,12+,126,0
+female,Arab,60-69,FebA,13/08/2021,2nd,7522,0.132943366
+female,Arab,60-69,FebA,13/08/2021,12+,31,0
+female,Arab,60-69,FebB,13/08/2021,2nd,3292,0.303766707
+female,Arab,60-69,FebB,13/08/2021,12+,5,0
+female,Arab,70-79,JanB,13/08/2021,2nd,1674,0
+female,Arab,70-79,JanB,13/08/2021,12+,76,0
+female,Arab,70-79,FebA,13/08/2021,2nd,4004,0.24975025
+female,Arab,70-79,FebA,13/08/2021,12+,29,0
+female,Arab,70-79,FebB,13/08/2021,2nd,1610,0
+female,Arab,70-79,FebB,13/08/2021,12+,<5,0
+female,Arab,80+,JanB,13/08/2021,2nd,938,0
+female,Arab,80+,JanB,13/08/2021,12+,34,0
+female,Arab,80+,FebA,13/08/2021,2nd,1540,0.649350649
+female,Arab,80+,FebA,13/08/2021,12+,5,0
+female,Arab,80+,FebB,13/08/2021,2nd,609,0
+female,Arab,80+,FebB,13/08/2021,12+,<5,0
+female,ultra-Orthodox Jews,60-69,JanB,13/08/2021,2nd,1767,2.263723826
+female,ultra-Orthodox Jews,60-69,JanB,13/08/2021,12+,157,0
+female,ultra-Orthodox Jews,60-69,FebA,13/08/2021,2nd,2067,0
+female,ultra-Orthodox Jews,60-69,FebA,13/08/2021,12+,35,0
+female,ultra-Orthodox Jews,60-69,FebB,13/08/2021,2nd,769,1.300390117
+female,ultra-Orthodox Jews,70-79,JanB,13/08/2021,2nd,1205,0.829875519
+female,ultra-Orthodox Jews,70-79,JanB,13/08/2021,12+,159,0
+female,ultra-Orthodox Jews,70-79,FebA,13/08/2021,2nd,1402,0
+female,ultra-Orthodox Jews,70-79,FebA,13/08/2021,12+,22,0
+female,ultra-Orthodox Jews,70-79,FebB,13/08/2021,2nd,427,2.341920375
+female,ultra-Orthodox Jews,70-79,FebB,13/08/2021,12+,<5,0
+female,ultra-Orthodox Jews,80+,JanB,13/08/2021,2nd,829,2.412545235
+female,ultra-Orthodox Jews,80+,JanB,13/08/2021,12+,73,0
+female,ultra-Orthodox Jews,80+,FebA,13/08/2021,2nd,902,0
+female,ultra-Orthodox Jews,80+,FebA,13/08/2021,12+,14,0
+female,ultra-Orthodox Jews,80+,FebB,13/08/2021,2nd,216,0
+male,General Jewish,60-69,JanB,13/08/2021,2nd,30656,0.782881002
+male,General Jewish,60-69,JanB,13/08/2021,12+,7342,0
+male,General Jewish,60-69,FebA,13/08/2021,2nd,32063,0.561394754
+male,General Jewish,60-69,FebA,13/08/2021,12+,850,0
+male,General Jewish,60-69,FebB,13/08/2021,2nd,8737,0.114455763
+male,General Jewish,60-69,FebB,13/08/2021,12+,62,0
+male,General Jewish,70-79,JanB,13/08/2021,2nd,18377,0.652990151
+male,General Jewish,70-79,JanB,13/08/2021,12+,7490,0
+male,General Jewish,70-79,FebA,13/08/2021,2nd,16218,0.678258725
+male,General Jewish,70-79,FebA,13/08/2021,12+,741,0
+male,General Jewish,70-79,FebB,13/08/2021,2nd,3697,0.540979172
+male,General Jewish,70-79,FebB,13/08/2021,12+,35,0
+male,General Jewish,80+,JanB,13/08/2021,2nd,9766,0.102396068
+male,General Jewish,80+,JanB,13/08/2021,12+,2938,0.340367597
+male,General Jewish,80+,FebA,13/08/2021,2nd,9795,0.714650332
+male,General Jewish,80+,FebA,13/08/2021,12+,389,0
+male,General Jewish,80+,FebB,13/08/2021,2nd,2073,0.482392668
+male,General Jewish,80+,FebB,13/08/2021,12+,20,0
+male,Arab,60-69,JanB,13/08/2021,2nd,3604,0
+male,Arab,60-69,JanB,13/08/2021,12+,287,0
+male,Arab,60-69,FebA,13/08/2021,2nd,6638,0.301295571
+male,Arab,60-69,FebA,13/08/2021,12+,72,0
+male,Arab,60-69,FebB,13/08/2021,2nd,2996,0.333778371
+male,Arab,60-69,FebB,13/08/2021,12+,5,0
+male,Arab,70-79,JanB,13/08/2021,2nd,1519,0
+male,Arab,70-79,JanB,13/08/2021,12+,173,0
+male,Arab,70-79,FebA,13/08/2021,2nd,3025,0.330578512
+male,Arab,70-79,FebA,13/08/2021,12+,48,0
+male,Arab,70-79,FebB,13/08/2021,2nd,1128,0
+male,Arab,70-79,FebB,13/08/2021,12+,<5,0
+male,Arab,80+,JanB,13/08/2021,2nd,651,1.53609831
+male,Arab,80+,JanB,13/08/2021,12+,49,0
+male,Arab,80+,FebA,13/08/2021,2nd,1190,0
+male,Arab,80+,FebA,13/08/2021,12+,18,0
+male,Arab,80+,FebB,13/08/2021,2nd,388,0
+male,ultra-Orthodox Jews,60-69,JanB,13/08/2021,2nd,1701,1.175778954
+male,ultra-Orthodox Jews,60-69,JanB,13/08/2021,12+,224,0
+male,ultra-Orthodox Jews,60-69,FebA,13/08/2021,2nd,1766,1.132502831
+male,ultra-Orthodox Jews,60-69,FebA,13/08/2021,12+,35,0
+male,ultra-Orthodox Jews,60-69,FebB,13/08/2021,2nd,636,1.572327044
+male,ultra-Orthodox Jews,60-69,FebB,13/08/2021,12+,<5,0
+male,ultra-Orthodox Jews,70-79,JanB,13/08/2021,2nd,996,2.008032129
+male,ultra-Orthodox Jews,70-79,JanB,13/08/2021,12+,218,0
+male,ultra-Orthodox Jews,70-79,FebA,13/08/2021,2nd,966,0
+male,ultra-Orthodox Jews,70-79,FebA,13/08/2021,12+,26,0
+male,ultra-Orthodox Jews,70-79,FebB,13/08/2021,2nd,265,0
+male,ultra-Orthodox Jews,70-79,FebB,13/08/2021,12+,<5,0
+male,ultra-Orthodox Jews,80+,JanB,13/08/2021,2nd,501,0
+male,ultra-Orthodox Jews,80+,JanB,13/08/2021,12+,83,0
+male,ultra-Orthodox Jews,80+,FebA,13/08/2021,2nd,542,0
+male,ultra-Orthodox Jews,80+,FebA,13/08/2021,12+,10,0
+male,ultra-Orthodox Jews,80+,FebB,13/08/2021,2nd,122,0
+male,ultra-Orthodox Jews,80+,FebB,13/08/2021,12+,<5,0
+female,General Jewish,60-69,JanB,14/08/2021,2nd,36176,0.635780628
+female,General Jewish,60-69,JanB,14/08/2021,12+,13369,0
+female,General Jewish,60-69,FebA,14/08/2021,2nd,39654,0.353053916
+female,General Jewish,60-69,FebA,14/08/2021,12+,2076,0.481695568
+female,General Jewish,60-69,FebB,14/08/2021,2nd,11124,0.359582884
+female,General Jewish,60-69,FebB,14/08/2021,12+,152,0
+female,General Jewish,70-79,JanB,14/08/2021,2nd,22128,0.632682574
+female,General Jewish,70-79,JanB,14/08/2021,12+,14911,0
+female,General Jewish,70-79,FebA,14/08/2021,2nd,23192,0.215591583
+female,General Jewish,70-79,FebA,14/08/2021,12+,2256,0
+female,General Jewish,70-79,FebB,14/08/2021,2nd,5751,0.173882803
+female,General Jewish,70-79,FebB,14/08/2021,12+,121,0
+female,General Jewish,80+,JanB,14/08/2021,2nd,14777,0.270690939
+female,General Jewish,80+,JanB,14/08/2021,12+,7648,0
+female,General Jewish,80+,FebA,14/08/2021,2nd,16280,0.245700246
+female,General Jewish,80+,FebA,14/08/2021,12+,1454,0
+female,General Jewish,80+,FebB,14/08/2021,2nd,3708,0
+female,General Jewish,80+,FebB,14/08/2021,12+,99,0
+female,Arab,60-69,JanB,14/08/2021,2nd,2967,0
+female,Arab,60-69,JanB,14/08/2021,12+,317,0
+female,Arab,60-69,FebA,14/08/2021,2nd,7253,0.275747966
+female,Arab,60-69,FebA,14/08/2021,12+,110,0
+female,Arab,60-69,FebB,14/08/2021,2nd,3209,0.623247117
+female,Arab,60-69,FebB,14/08/2021,12+,28,0
+female,Arab,70-79,JanB,14/08/2021,2nd,1574,0.635324015
+female,Arab,70-79,JanB,14/08/2021,12+,199,0
+female,Arab,70-79,FebA,14/08/2021,2nd,3860,0.518134715
+female,Arab,70-79,FebA,14/08/2021,12+,90,0
+female,Arab,70-79,FebB,14/08/2021,2nd,1569,0.63734863
+female,Arab,70-79,FebB,14/08/2021,12+,8,0
+female,Arab,80+,JanB,14/08/2021,2nd,893,1.119820829
+female,Arab,80+,JanB,14/08/2021,12+,73,0
+female,Arab,80+,FebA,14/08/2021,2nd,1479,0
+female,Arab,80+,FebA,14/08/2021,12+,19,0
+female,Arab,80+,FebB,14/08/2021,2nd,595,0
+female,Arab,80+,FebB,14/08/2021,12+,<5,0
+female,ultra-Orthodox Jews,60-69,JanB,14/08/2021,2nd,1750,0
+female,ultra-Orthodox Jews,60-69,JanB,14/08/2021,12+,462,0
+female,ultra-Orthodox Jews,60-69,FebA,14/08/2021,2nd,2059,0.485672657
+female,ultra-Orthodox Jews,60-69,FebA,14/08/2021,12+,93,0
+female,ultra-Orthodox Jews,60-69,FebB,14/08/2021,2nd,766,0
+female,ultra-Orthodox Jews,60-69,FebB,14/08/2021,12+,8,0
+female,ultra-Orthodox Jews,70-79,JanB,14/08/2021,2nd,1193,0
+female,ultra-Orthodox Jews,70-79,JanB,14/08/2021,12+,483,0
+female,ultra-Orthodox Jews,70-79,FebA,14/08/2021,2nd,1393,0
+female,ultra-Orthodox Jews,70-79,FebA,14/08/2021,12+,84,0
+female,ultra-Orthodox Jews,70-79,FebB,14/08/2021,2nd,422,0
+female,ultra-Orthodox Jews,70-79,FebB,14/08/2021,12+,<5,0
+female,ultra-Orthodox Jews,80+,JanB,14/08/2021,2nd,822,0
+female,ultra-Orthodox Jews,80+,JanB,14/08/2021,12+,230,0
+female,ultra-Orthodox Jews,80+,FebA,14/08/2021,2nd,897,0
+female,ultra-Orthodox Jews,80+,FebA,14/08/2021,12+,50,0
+female,ultra-Orthodox Jews,80+,FebB,14/08/2021,2nd,216,0
+female,ultra-Orthodox Jews,80+,FebB,14/08/2021,12+,6,0
+male,General Jewish,60-69,JanB,14/08/2021,2nd,28760,0.45201669
+male,General Jewish,60-69,JanB,14/08/2021,12+,16357,0.061135905
+male,General Jewish,60-69,FebA,14/08/2021,2nd,30790,0.324780773
+male,General Jewish,60-69,FebA,14/08/2021,12+,2452,0
+male,General Jewish,60-69,FebB,14/08/2021,2nd,8596,0.232666356
+male,General Jewish,60-69,FebB,14/08/2021,12+,183,0
+male,General Jewish,70-79,JanB,14/08/2021,2nd,17185,0.465522258
+male,General Jewish,70-79,JanB,14/08/2021,12+,17384,0.11504832
+male,General Jewish,70-79,FebA,14/08/2021,2nd,15552,0.257201646
+male,General Jewish,70-79,FebA,14/08/2021,12+,2074,0
+male,General Jewish,70-79,FebB,14/08/2021,2nd,3642,0
+male,General Jewish,70-79,FebB,14/08/2021,12+,128,0
+male,General Jewish,80+,JanB,14/08/2021,2nd,9209,1.085894234
+male,General Jewish,80+,JanB,14/08/2021,12+,7321,0
+male,General Jewish,80+,FebA,14/08/2021,2nd,9471,0.633512829
+male,General Jewish,80+,FebA,14/08/2021,12+,1052,0
+male,General Jewish,80+,FebB,14/08/2021,2nd,2037,0
+male,General Jewish,80+,FebB,14/08/2021,12+,67,0
+male,Arab,60-69,JanB,14/08/2021,2nd,3351,0.298418383
+male,Arab,60-69,JanB,14/08/2021,12+,688,0
+male,Arab,60-69,FebA,14/08/2021,2nd,6334,0
+male,Arab,60-69,FebA,14/08/2021,12+,237,0
+male,Arab,60-69,FebB,14/08/2021,2nd,2891,0
+male,Arab,60-69,FebB,14/08/2021,12+,27,0
+male,Arab,70-79,JanB,14/08/2021,2nd,1385,0
+male,Arab,70-79,JanB,14/08/2021,12+,455,0
+male,Arab,70-79,FebA,14/08/2021,2nd,2848,0.351123596
+male,Arab,70-79,FebA,14/08/2021,12+,146,0
+male,Arab,70-79,FebB,14/08/2021,2nd,1087,0
+male,Arab,70-79,FebB,14/08/2021,12+,19,0
+male,Arab,80+,JanB,14/08/2021,2nd,606,0
+male,Arab,80+,JanB,14/08/2021,12+,129,0
+male,Arab,80+,FebA,14/08/2021,2nd,1136,0
+male,Arab,80+,FebA,14/08/2021,12+,49,0
+male,Arab,80+,FebB,14/08/2021,2nd,377,0
+male,Arab,80+,FebB,14/08/2021,12+,<5,0
+male,ultra-Orthodox Jews,60-69,JanB,14/08/2021,2nd,1683,0
+male,ultra-Orthodox Jews,60-69,JanB,14/08/2021,12+,546,0
+male,ultra-Orthodox Jews,60-69,FebA,14/08/2021,2nd,1755,0
+male,ultra-Orthodox Jews,60-69,FebA,14/08/2021,12+,115,0
+male,ultra-Orthodox Jews,60-69,FebB,14/08/2021,2nd,635,0
+male,ultra-Orthodox Jews,60-69,FebB,14/08/2021,12+,9,0
+male,ultra-Orthodox Jews,70-79,JanB,14/08/2021,2nd,989,0
+male,ultra-Orthodox Jews,70-79,JanB,14/08/2021,12+,569,0
+male,ultra-Orthodox Jews,70-79,FebA,14/08/2021,2nd,959,1.042752868
+male,ultra-Orthodox Jews,70-79,FebA,14/08/2021,12+,100,0
+male,ultra-Orthodox Jews,70-79,FebB,14/08/2021,2nd,263,0
+male,ultra-Orthodox Jews,70-79,FebB,14/08/2021,12+,<5,0
+male,ultra-Orthodox Jews,80+,JanB,14/08/2021,2nd,497,0
+male,ultra-Orthodox Jews,80+,JanB,14/08/2021,12+,223,0
+male,ultra-Orthodox Jews,80+,FebA,14/08/2021,2nd,537,0
+male,ultra-Orthodox Jews,80+,FebA,14/08/2021,12+,37,0
+male,ultra-Orthodox Jews,80+,FebB,14/08/2021,2nd,122,0
+male,ultra-Orthodox Jews,80+,FebB,14/08/2021,12+,<5,0
+female,General Jewish,60-69,JanB,15/08/2021,2nd,31103,1.575410732
+female,General Jewish,60-69,JanB,15/08/2021,12+,24088,0.249086682
+female,General Jewish,60-69,FebA,15/08/2021,2nd,36029,1.443281801
+female,General Jewish,60-69,FebA,15/08/2021,12+,4420,0.226244344
+female,General Jewish,60-69,FebB,15/08/2021,2nd,10591,1.510716646
+female,General Jewish,60-69,FebB,15/08/2021,12+,319,0
+female,General Jewish,70-79,JanB,15/08/2021,2nd,18682,1.552296328
+female,General Jewish,70-79,JanB,15/08/2021,12+,26941,0
+female,General Jewish,70-79,FebA,15/08/2021,2nd,20665,0.967819985
+female,General Jewish,70-79,FebA,15/08/2021,12+,4505,0
+female,General Jewish,70-79,FebB,15/08/2021,2nd,5387,0.742528309
+female,General Jewish,70-79,FebB,15/08/2021,12+,286,0
+female,General Jewish,80+,JanB,15/08/2021,2nd,12593,1.667593107
+female,General Jewish,80+,JanB,15/08/2021,12+,14455,0.138360429
+female,General Jewish,80+,FebA,15/08/2021,2nd,14502,1.172252103
+female,General Jewish,80+,FebA,15/08/2021,12+,2689,0
+female,General Jewish,80+,FebB,15/08/2021,2nd,3513,0.853970965
+female,General Jewish,80+,FebB,15/08/2021,12+,179,0
+female,Arab,60-69,JanB,15/08/2021,2nd,2724,0.367107195
+female,Arab,60-69,JanB,15/08/2021,12+,598,0
+female,Arab,60-69,FebA,15/08/2021,2nd,6960,0.287356322
+female,Arab,60-69,FebA,15/08/2021,12+,241,0
+female,Arab,60-69,FebB,15/08/2021,2nd,3144,0
+female,Arab,60-69,FebB,15/08/2021,12+,54,0
+female,Arab,70-79,JanB,15/08/2021,2nd,1440,0.694444444
+female,Arab,70-79,JanB,15/08/2021,12+,377,0
+female,Arab,70-79,FebA,15/08/2021,2nd,3682,0.271591526
+female,Arab,70-79,FebA,15/08/2021,12+,169,0
+female,Arab,70-79,FebB,15/08/2021,2nd,1525,0
+female,Arab,70-79,FebB,15/08/2021,12+,16,0
+female,Arab,80+,JanB,15/08/2021,2nd,837,0
+female,Arab,80+,JanB,15/08/2021,12+,137,0
+female,Arab,80+,FebA,15/08/2021,2nd,1408,0
+female,Arab,80+,FebA,15/08/2021,12+,38,0
+female,Arab,80+,FebB,15/08/2021,2nd,581,0
+female,Arab,80+,FebB,15/08/2021,12+,10,0
+female,ultra-Orthodox Jews,60-69,JanB,15/08/2021,2nd,1516,4.617414248
+female,ultra-Orthodox Jews,60-69,JanB,15/08/2021,12+,813,0
+female,ultra-Orthodox Jews,60-69,FebA,15/08/2021,2nd,1855,0.539083558
+female,ultra-Orthodox Jews,60-69,FebA,15/08/2021,12+,183,0
+female,ultra-Orthodox Jews,60-69,FebB,15/08/2021,2nd,738,5.420054201
+female,ultra-Orthodox Jews,60-69,FebB,15/08/2021,12+,16,0
+female,ultra-Orthodox Jews,70-79,JanB,15/08/2021,2nd,1021,1.958863859
+female,ultra-Orthodox Jews,70-79,JanB,15/08/2021,12+,883,0
+female,ultra-Orthodox Jews,70-79,FebA,15/08/2021,2nd,1237,1.616814875
+female,ultra-Orthodox Jews,70-79,FebA,15/08/2021,12+,158,0
+female,ultra-Orthodox Jews,70-79,FebB,15/08/2021,2nd,400,5
+female,ultra-Orthodox Jews,70-79,FebB,15/08/2021,12+,10,0
+female,ultra-Orthodox Jews,80+,JanB,15/08/2021,2nd,736,4.076086957
+female,ultra-Orthodox Jews,80+,JanB,15/08/2021,12+,429,0
+female,ultra-Orthodox Jews,80+,FebA,15/08/2021,2nd,797,0
+female,ultra-Orthodox Jews,80+,FebA,15/08/2021,12+,103,0
+female,ultra-Orthodox Jews,80+,FebB,15/08/2021,2nd,199,0
+female,ultra-Orthodox Jews,80+,FebB,15/08/2021,12+,10,0
+male,General Jewish,60-69,JanB,15/08/2021,2nd,24496,1.755388635
+male,General Jewish,60-69,JanB,15/08/2021,12+,27702,0.21659086
+male,General Jewish,60-69,FebA,15/08/2021,2nd,27728,1.586843624
+male,General Jewish,60-69,FebA,15/08/2021,12+,4856,0.411861614
+male,General Jewish,60-69,FebB,15/08/2021,2nd,8160,1.348039216
+male,General Jewish,60-69,FebB,15/08/2021,12+,370,0
+male,General Jewish,70-79,JanB,15/08/2021,2nd,14562,1.373437715
+male,General Jewish,70-79,JanB,15/08/2021,12+,30024,0.16653344
+male,General Jewish,70-79,FebA,15/08/2021,2nd,13739,1.237353519
+male,General Jewish,70-79,FebA,15/08/2021,12+,4188,0.238777459
+male,General Jewish,70-79,FebB,15/08/2021,2nd,3406,0.880798591
+male,General Jewish,70-79,FebB,15/08/2021,12+,235,0
+male,General Jewish,80+,JanB,15/08/2021,2nd,7831,1.276976121
+male,General Jewish,80+,JanB,15/08/2021,12+,13124,0
+male,General Jewish,80+,FebA,15/08/2021,2nd,8389,1.907259506
+male,General Jewish,80+,FebA,15/08/2021,12+,2121,0.471475719
+male,General Jewish,80+,FebB,15/08/2021,2nd,1917,1.043296818
+male,General Jewish,80+,FebB,15/08/2021,12+,121,0
+male,Arab,60-69,JanB,15/08/2021,2nd,3009,0.332336324
+male,Arab,60-69,JanB,15/08/2021,12+,1224,0
+male,Arab,60-69,FebA,15/08/2021,2nd,5953,0.671930119
+male,Arab,60-69,FebA,15/08/2021,12+,474,0
+male,Arab,60-69,FebB,15/08/2021,2nd,2767,0
+male,Arab,60-69,FebB,15/08/2021,12+,66,0
+male,Arab,70-79,JanB,15/08/2021,2nd,1242,0
+male,Arab,70-79,JanB,15/08/2021,12+,790,0
+male,Arab,70-79,FebA,15/08/2021,2nd,2655,0.376647834
+male,Arab,70-79,FebA,15/08/2021,12+,258,0
+male,Arab,70-79,FebB,15/08/2021,2nd,1034,0.967117988
+male,Arab,70-79,FebB,15/08/2021,12+,38,0
+male,Arab,80+,JanB,15/08/2021,2nd,539,1.85528757
+male,Arab,80+,JanB,15/08/2021,12+,232,0
+male,Arab,80+,FebA,15/08/2021,2nd,1074,0
+male,Arab,80+,FebA,15/08/2021,12+,97,0
+male,Arab,80+,FebB,15/08/2021,2nd,367,0
+male,Arab,80+,FebB,15/08/2021,12+,10,0
+male,ultra-Orthodox Jews,60-69,JanB,15/08/2021,2nd,1471,4.758667573
+male,ultra-Orthodox Jews,60-69,JanB,15/08/2021,12+,946,0
+male,ultra-Orthodox Jews,60-69,FebA,15/08/2021,2nd,1577,1.268230818
+male,ultra-Orthodox Jews,60-69,FebA,15/08/2021,12+,216,0
+male,ultra-Orthodox Jews,60-69,FebB,15/08/2021,2nd,601,1.663893511
+male,ultra-Orthodox Jews,60-69,FebB,15/08/2021,12+,20,0
+male,ultra-Orthodox Jews,70-79,JanB,15/08/2021,2nd,834,3.597122302
+male,ultra-Orthodox Jews,70-79,JanB,15/08/2021,12+,965,0
+male,ultra-Orthodox Jews,70-79,FebA,15/08/2021,2nd,859,3.492433062
+male,ultra-Orthodox Jews,70-79,FebA,15/08/2021,12+,186,0
+male,ultra-Orthodox Jews,70-79,FebB,15/08/2021,2nd,248,4.032258065
+male,ultra-Orthodox Jews,70-79,FebB,15/08/2021,12+,13,0
+male,ultra-Orthodox Jews,80+,JanB,15/08/2021,2nd,425,7.058823529
+male,ultra-Orthodox Jews,80+,JanB,15/08/2021,12+,402,0
+male,ultra-Orthodox Jews,80+,FebA,15/08/2021,2nd,474,0
+male,ultra-Orthodox Jews,80+,FebA,15/08/2021,12+,83,0
+male,ultra-Orthodox Jews,80+,FebB,15/08/2021,2nd,115,0
+male,ultra-Orthodox Jews,80+,FebB,15/08/2021,12+,10,0
+female,General Jewish,60-69,JanB,16/08/2021,2nd,27116,1.36450804
+female,General Jewish,60-69,JanB,16/08/2021,12+,35050,0.199714693
+female,General Jewish,60-69,FebA,16/08/2021,2nd,32674,1.101793475
+female,General Jewish,60-69,FebA,16/08/2021,12+,7119,0
+female,General Jewish,60-69,FebB,16/08/2021,2nd,10072,1.092136616
+female,General Jewish,60-69,FebB,16/08/2021,12+,551,0
+female,General Jewish,70-79,JanB,16/08/2021,2nd,15875,0.692913386
+female,General Jewish,70-79,JanB,16/08/2021,12+,38673,0.103431335
+female,General Jewish,70-79,FebA,16/08/2021,2nd,18283,1.367390472
+female,General Jewish,70-79,FebA,16/08/2021,12+,7299,0
+female,General Jewish,70-79,FebB,16/08/2021,2nd,5022,0.199123855
+female,General Jewish,70-79,FebB,16/08/2021,12+,481,0
+female,General Jewish,80+,JanB,16/08/2021,2nd,10887,0.734821347
+female,General Jewish,80+,JanB,16/08/2021,12+,20893,0
+female,General Jewish,80+,FebA,16/08/2021,2nd,12798,0.781372089
+female,General Jewish,80+,FebA,16/08/2021,12+,4429,0
+female,General Jewish,80+,FebB,16/08/2021,2nd,3281,0.304785126
+female,General Jewish,80+,FebB,16/08/2021,12+,304,0
+female,Arab,60-69,JanB,16/08/2021,2nd,2502,0.799360512
+female,Arab,60-69,JanB,16/08/2021,12+,933,1.071811361
+female,Arab,60-69,FebA,16/08/2021,2nd,6647,0.451331428
+female,Arab,60-69,FebA,16/08/2021,12+,488,2.049180328
+female,Arab,60-69,FebB,16/08/2021,2nd,3058,0
+female,Arab,60-69,FebB,16/08/2021,12+,100,0
+female,Arab,70-79,JanB,16/08/2021,2nd,1322,1.512859304
+female,Arab,70-79,JanB,16/08/2021,12+,617,0
+female,Arab,70-79,FebA,16/08/2021,2nd,3517,0.852999716
+female,Arab,70-79,FebA,16/08/2021,12+,314,0
+female,Arab,70-79,FebB,16/08/2021,2nd,1467,0
+female,Arab,70-79,FebB,16/08/2021,12+,47,0
+female,Arab,80+,JanB,16/08/2021,2nd,763,1.31061599
+female,Arab,80+,JanB,16/08/2021,12+,227,0
+female,Arab,80+,FebA,16/08/2021,2nd,1343,0.744601638
+female,Arab,80+,FebA,16/08/2021,12+,82,0
+female,Arab,80+,FebB,16/08/2021,2nd,558,0
+female,Arab,80+,FebB,16/08/2021,12+,20,0
+female,ultra-Orthodox Jews,60-69,JanB,16/08/2021,2nd,1329,2.257336343
+female,ultra-Orthodox Jews,60-69,JanB,16/08/2021,12+,1191,0
+female,ultra-Orthodox Jews,60-69,FebA,16/08/2021,2nd,1699,0
+female,ultra-Orthodox Jews,60-69,FebA,16/08/2021,12+,304,0
+female,ultra-Orthodox Jews,60-69,FebB,16/08/2021,2nd,703,1.422475107
+female,ultra-Orthodox Jews,60-69,FebB,16/08/2021,12+,31,0
+female,ultra-Orthodox Jews,70-79,JanB,16/08/2021,2nd,875,1.142857143
+female,ultra-Orthodox Jews,70-79,JanB,16/08/2021,12+,1250,0
+female,ultra-Orthodox Jews,70-79,FebA,16/08/2021,2nd,1113,0
+female,ultra-Orthodox Jews,70-79,FebA,16/08/2021,12+,273,0
+female,ultra-Orthodox Jews,70-79,FebB,16/08/2021,2nd,375,0
+female,ultra-Orthodox Jews,70-79,FebB,16/08/2021,12+,19,0
+female,ultra-Orthodox Jews,80+,JanB,16/08/2021,2nd,639,3.129890454
+female,ultra-Orthodox Jews,80+,JanB,16/08/2021,12+,606,0
+female,ultra-Orthodox Jews,80+,FebA,16/08/2021,2nd,705,0
+female,ultra-Orthodox Jews,80+,FebA,16/08/2021,12+,158,0
+female,ultra-Orthodox Jews,80+,FebB,16/08/2021,2nd,186,0
+female,ultra-Orthodox Jews,80+,FebB,16/08/2021,12+,19,0
+male,General Jewish,60-69,JanB,16/08/2021,2nd,21156,1.134429949
+male,General Jewish,60-69,JanB,16/08/2021,12+,38708,0.103337811
+male,General Jewish,60-69,FebA,16/08/2021,2nd,24909,1.124091694
+male,General Jewish,60-69,FebA,16/08/2021,12+,7578,0.395882819
+male,General Jewish,60-69,FebB,16/08/2021,2nd,7687,0.65044881
+male,General Jewish,60-69,FebB,16/08/2021,12+,595,0
+male,General Jewish,70-79,JanB,16/08/2021,2nd,12359,1.051865038
+male,General Jewish,70-79,JanB,16/08/2021,12+,42082,0.118815646
+male,General Jewish,70-79,FebA,16/08/2021,2nd,12043,2.075894711
+male,General Jewish,70-79,FebA,16/08/2021,12+,6579,0.303997568
+male,General Jewish,70-79,FebB,16/08/2021,2nd,3180,0.628930818
+male,General Jewish,70-79,FebB,16/08/2021,12+,372,0
+male,General Jewish,80+,JanB,16/08/2021,2nd,6684,1.04727708
+male,General Jewish,80+,JanB,16/08/2021,12+,18505,0.162118346
+male,General Jewish,80+,FebA,16/08/2021,2nd,7334,0.818107445
+male,General Jewish,80+,FebA,16/08/2021,12+,3419,0.292483182
+male,General Jewish,80+,FebB,16/08/2021,2nd,1771,0.564652739
+male,General Jewish,80+,FebB,16/08/2021,12+,189,0
+male,Arab,60-69,JanB,16/08/2021,2nd,2731,0.366166239
+male,Arab,60-69,JanB,16/08/2021,12+,1809,0.552791598
+male,Arab,60-69,FebA,16/08/2021,2nd,5658,0.176740898
+male,Arab,60-69,FebA,16/08/2021,12+,817,0
+male,Arab,60-69,FebB,16/08/2021,2nd,2675,0
+male,Arab,60-69,FebB,16/08/2021,12+,136,0
+male,Arab,70-79,JanB,16/08/2021,2nd,1117,0.895255148
+male,Arab,70-79,JanB,16/08/2021,12+,1197,0
+male,Arab,70-79,FebA,16/08/2021,2nd,2483,0
+male,Arab,70-79,FebA,16/08/2021,12+,479,0
+male,Arab,70-79,FebB,16/08/2021,2nd,1000,1
+male,Arab,70-79,FebB,16/08/2021,12+,79,0
+male,Arab,80+,JanB,16/08/2021,2nd,480,2.083333333
+male,Arab,80+,JanB,16/08/2021,12+,381,0
+male,Arab,80+,FebA,16/08/2021,2nd,1012,0
+male,Arab,80+,FebA,16/08/2021,12+,169,0
+male,Arab,80+,FebB,16/08/2021,2nd,354,0
+male,Arab,80+,FebB,16/08/2021,12+,17,0
+male,ultra-Orthodox Jews,60-69,JanB,16/08/2021,2nd,1296,2.314814815
+male,ultra-Orthodox Jews,60-69,JanB,16/08/2021,12+,1303,0
+male,ultra-Orthodox Jews,60-69,FebA,16/08/2021,2nd,1443,1.386001386
+male,ultra-Orthodox Jews,60-69,FebA,16/08/2021,12+,325,0
+male,ultra-Orthodox Jews,60-69,FebB,16/08/2021,2nd,561,0
+male,ultra-Orthodox Jews,60-69,FebB,16/08/2021,12+,35,0
+male,ultra-Orthodox Jews,70-79,JanB,16/08/2021,2nd,707,4.243281471
+male,ultra-Orthodox Jews,70-79,JanB,16/08/2021,12+,1359,0
+male,ultra-Orthodox Jews,70-79,FebA,16/08/2021,2nd,763,0
+male,ultra-Orthodox Jews,70-79,FebA,16/08/2021,12+,281,0
+male,ultra-Orthodox Jews,70-79,FebB,16/08/2021,2nd,227,0
+male,ultra-Orthodox Jews,70-79,FebB,16/08/2021,12+,21,0
+male,ultra-Orthodox Jews,80+,JanB,16/08/2021,2nd,358,2.793296089
+male,ultra-Orthodox Jews,80+,JanB,16/08/2021,12+,580,0
+male,ultra-Orthodox Jews,80+,FebA,16/08/2021,2nd,426,0
+male,ultra-Orthodox Jews,80+,FebA,16/08/2021,12+,140,0
+male,ultra-Orthodox Jews,80+,FebB,16/08/2021,2nd,108,0
+male,ultra-Orthodox Jews,80+,FebB,16/08/2021,12+,14,0
+female,General Jewish,60-69,JanB,17/08/2021,2nd,23790,1.261034048
+female,General Jewish,60-69,JanB,17/08/2021,12+,47449,0.210752598
+female,General Jewish,60-69,FebA,17/08/2021,2nd,29603,1.384994764
+female,General Jewish,60-69,FebA,17/08/2021,12+,10513,0.095120327
+female,General Jewish,60-69,FebB,17/08/2021,2nd,9515,1.050972149
+female,General Jewish,60-69,FebB,17/08/2021,12+,837,0
+female,General Jewish,70-79,JanB,17/08/2021,2nd,13631,1.027070648
+female,General Jewish,70-79,JanB,17/08/2021,12+,51364,0.038937777
+female,General Jewish,70-79,FebA,17/08/2021,2nd,16332,0.857212834
+female,General Jewish,70-79,FebA,17/08/2021,12+,10556,0.094732853
+female,General Jewish,70-79,FebB,17/08/2021,2nd,4668,0.428449015
+female,General Jewish,70-79,FebB,17/08/2021,12+,715,0
+female,General Jewish,80+,JanB,17/08/2021,2nd,9549,0.733061054
+female,General Jewish,80+,JanB,17/08/2021,12+,27167,0.110428093
+female,General Jewish,80+,FebA,17/08/2021,2nd,11415,1.138852387
+female,General Jewish,80+,FebA,17/08/2021,12+,6549,0
+female,General Jewish,80+,FebB,17/08/2021,2nd,3062,0.326583932
+female,General Jewish,80+,FebB,17/08/2021,12+,454,0
+female,Arab,60-69,JanB,17/08/2021,2nd,2287,0.437254045
+female,Arab,60-69,JanB,17/08/2021,12+,1279,0
+female,Arab,60-69,FebA,17/08/2021,2nd,6276,0.318674315
+female,Arab,60-69,FebA,17/08/2021,12+,763,0
+female,Arab,60-69,FebB,17/08/2021,2nd,2955,0.676818951
+female,Arab,60-69,FebB,17/08/2021,12+,147,0
+female,Arab,70-79,JanB,17/08/2021,2nd,1195,0.836820084
+female,Arab,70-79,JanB,17/08/2021,12+,834,1.199040767
+female,Arab,70-79,FebA,17/08/2021,2nd,3294,0
+female,Arab,70-79,FebA,17/08/2021,12+,501,0
+female,Arab,70-79,FebB,17/08/2021,2nd,1417,0
+female,Arab,70-79,FebB,17/08/2021,12+,84,0
+female,Arab,80+,JanB,17/08/2021,2nd,702,0
+female,Arab,80+,JanB,17/08/2021,12+,337,0
+female,Arab,80+,FebA,17/08/2021,2nd,1260,0
+female,Arab,80+,FebA,17/08/2021,12+,189,0
+female,Arab,80+,FebB,17/08/2021,2nd,535,0
+female,Arab,80+,FebB,17/08/2021,12+,30,0
+female,ultra-Orthodox Jews,60-69,JanB,17/08/2021,2nd,1173,2.557544757
+female,ultra-Orthodox Jews,60-69,JanB,17/08/2021,12+,1635,0
+female,ultra-Orthodox Jews,60-69,FebA,17/08/2021,2nd,1543,0.64808814
+female,ultra-Orthodox Jews,60-69,FebA,17/08/2021,12+,475,0
+female,ultra-Orthodox Jews,60-69,FebB,17/08/2021,2nd,670,2.985074627
+female,ultra-Orthodox Jews,60-69,FebB,17/08/2021,12+,45,0
+female,ultra-Orthodox Jews,70-79,JanB,17/08/2021,2nd,756,2.645502646
+female,ultra-Orthodox Jews,70-79,JanB,17/08/2021,12+,1656,0
+female,ultra-Orthodox Jews,70-79,FebA,17/08/2021,2nd,1002,0.998003992
+female,ultra-Orthodox Jews,70-79,FebA,17/08/2021,12+,428,0
+female,ultra-Orthodox Jews,70-79,FebB,17/08/2021,2nd,347,0
+female,ultra-Orthodox Jews,70-79,FebB,17/08/2021,12+,38,0
+female,ultra-Orthodox Jews,80+,JanB,17/08/2021,2nd,553,7.233273056
+female,ultra-Orthodox Jews,80+,JanB,17/08/2021,12+,849,0
+female,ultra-Orthodox Jews,80+,FebA,17/08/2021,2nd,638,0
+female,ultra-Orthodox Jews,80+,FebA,17/08/2021,12+,243,0
+female,ultra-Orthodox Jews,80+,FebB,17/08/2021,2nd,178,5.617977528
+female,ultra-Orthodox Jews,80+,FebB,17/08/2021,12+,26,0
+male,General Jewish,60-69,JanB,17/08/2021,2nd,18333,1.363661157
+male,General Jewish,60-69,JanB,17/08/2021,12+,50580,0.276789245
+male,General Jewish,60-69,FebA,17/08/2021,2nd,22304,1.210545194
+male,General Jewish,60-69,FebA,17/08/2021,12+,10853,0.092140422
+male,General Jewish,60-69,FebB,17/08/2021,2nd,7251,1.241208109
+male,General Jewish,60-69,FebB,17/08/2021,12+,874,1.14416476
+male,General Jewish,70-79,JanB,17/08/2021,2nd,10548,1.327265832
+male,General Jewish,70-79,JanB,17/08/2021,12+,54703,0.127963731
+male,General Jewish,70-79,FebA,17/08/2021,2nd,10651,0.938878978
+male,General Jewish,70-79,FebA,17/08/2021,12+,9316,0.214684414
+male,General Jewish,70-79,FebB,17/08/2021,2nd,2956,1.01488498
+male,General Jewish,70-79,FebB,17/08/2021,12+,574,0
+male,General Jewish,80+,JanB,17/08/2021,2nd,5751,1.043296818
+male,General Jewish,80+,JanB,17/08/2021,12+,23911,0.209108778
+male,General Jewish,80+,FebA,17/08/2021,2nd,6567,1.370488808
+male,General Jewish,80+,FebA,17/08/2021,12+,4934,0.405350628
+male,General Jewish,80+,FebB,17/08/2021,2nd,1658,1.206272618
+male,General Jewish,80+,FebB,17/08/2021,12+,279,0
+male,Arab,60-69,JanB,17/08/2021,2nd,2466,0.405515004
+male,Arab,60-69,JanB,17/08/2021,12+,2419,0
+male,Arab,60-69,FebA,17/08/2021,2nd,5292,0
+male,Arab,60-69,FebA,17/08/2021,12+,1180,0
+male,Arab,60-69,FebB,17/08/2021,2nd,2563,0
+male,Arab,60-69,FebB,17/08/2021,12+,223,0
+male,Arab,70-79,JanB,17/08/2021,2nd,992,0
+male,Arab,70-79,JanB,17/08/2021,12+,1557,0
+male,Arab,70-79,FebA,17/08/2021,2nd,2284,0
+male,Arab,70-79,FebA,17/08/2021,12+,734,0
+male,Arab,70-79,FebB,17/08/2021,2nd,946,0
+male,Arab,70-79,FebB,17/08/2021,12+,118,0
+male,Arab,80+,JanB,17/08/2021,2nd,407,0
+male,Arab,80+,JanB,17/08/2021,12+,502,0
+male,Arab,80+,FebA,17/08/2021,2nd,929,0
+male,Arab,80+,FebA,17/08/2021,12+,277,0
+male,Arab,80+,FebB,17/08/2021,2nd,334,0
+male,Arab,80+,FebB,17/08/2021,12+,30,0
+male,ultra-Orthodox Jews,60-69,JanB,17/08/2021,2nd,1143,2.624671916
+male,ultra-Orthodox Jews,60-69,JanB,17/08/2021,12+,1758,0
+male,ultra-Orthodox Jews,60-69,FebA,17/08/2021,2nd,1297,0.771010023
+male,ultra-Orthodox Jews,60-69,FebA,17/08/2021,12+,521,0
+male,ultra-Orthodox Jews,60-69,FebB,17/08/2021,2nd,527,1.897533207
+male,ultra-Orthodox Jews,60-69,FebB,17/08/2021,12+,57,0
+male,ultra-Orthodox Jews,70-79,JanB,17/08/2021,2nd,610,3.278688525
+male,ultra-Orthodox Jews,70-79,JanB,17/08/2021,12+,1765,0
+male,ultra-Orthodox Jews,70-79,FebA,17/08/2021,2nd,688,0
+male,ultra-Orthodox Jews,70-79,FebA,17/08/2021,12+,420,0
+male,ultra-Orthodox Jews,70-79,FebB,17/08/2021,2nd,204,0
+male,ultra-Orthodox Jews,70-79,FebB,17/08/2021,12+,30,0
+male,ultra-Orthodox Jews,80+,JanB,17/08/2021,2nd,307,6.51465798
+male,ultra-Orthodox Jews,80+,JanB,17/08/2021,12+,778,0
+male,ultra-Orthodox Jews,80+,FebA,17/08/2021,2nd,374,0
+male,ultra-Orthodox Jews,80+,FebA,17/08/2021,12+,199,0
+male,ultra-Orthodox Jews,80+,FebB,17/08/2021,2nd,96,0
+male,ultra-Orthodox Jews,80+,FebB,17/08/2021,12+,16,0
+female,General Jewish,60-69,JanB,18/08/2021,2nd,21141,1.277139208
+female,General Jewish,60-69,JanB,18/08/2021,12+,53740,0.037216226
+female,General Jewish,60-69,FebA,18/08/2021,2nd,27040,1.146449704
+female,General Jewish,60-69,FebA,18/08/2021,12+,12359,0.242738086
+female,General Jewish,60-69,FebB,18/08/2021,2nd,9013,1.553311883
+female,General Jewish,60-69,FebB,18/08/2021,12+,998,0
+female,General Jewish,70-79,JanB,18/08/2021,2nd,11869,0.926784059
+female,General Jewish,70-79,JanB,18/08/2021,12+,57286,0.069825088
+female,General Jewish,70-79,FebA,18/08/2021,2nd,14632,1.435210498
+female,General Jewish,70-79,FebA,18/08/2021,12+,12288,0
+female,General Jewish,70-79,FebB,18/08/2021,2nd,4370,0.228832952
+female,General Jewish,70-79,FebB,18/08/2021,12+,851,0
+female,General Jewish,80+,JanB,18/08/2021,2nd,8350,1.317365269
+female,General Jewish,80+,JanB,18/08/2021,12+,30163,0.132612804
+female,General Jewish,80+,FebA,18/08/2021,2nd,10324,1.065478497
+female,General Jewish,80+,FebA,18/08/2021,12+,7658,0
+female,General Jewish,80+,FebB,18/08/2021,2nd,2874,0.695894224
+female,General Jewish,80+,FebB,18/08/2021,12+,519,0
+female,Arab,60-69,JanB,18/08/2021,2nd,2125,0
+female,Arab,60-69,JanB,18/08/2021,12+,1509,0
+female,Arab,60-69,FebA,18/08/2021,2nd,5943,0.336530372
+female,Arab,60-69,FebA,18/08/2021,12+,896,0
+female,Arab,60-69,FebB,18/08/2021,2nd,2840,1.056338028
+female,Arab,60-69,FebB,18/08/2021,12+,186,0
+female,Arab,70-79,JanB,18/08/2021,2nd,1088,0
+female,Arab,70-79,JanB,18/08/2021,12+,976,0
+female,Arab,70-79,FebA,18/08/2021,2nd,3111,0.964320154
+female,Arab,70-79,FebA,18/08/2021,12+,581,0
+female,Arab,70-79,FebB,18/08/2021,2nd,1354,0
+female,Arab,70-79,FebB,18/08/2021,12+,101,9.900990099
+female,Arab,80+,JanB,18/08/2021,2nd,641,1.560062402
+female,Arab,80+,JanB,18/08/2021,12+,386,0
+female,Arab,80+,FebA,18/08/2021,2nd,1187,0
+female,Arab,80+,FebA,18/08/2021,12+,231,0
+female,Arab,80+,FebB,18/08/2021,2nd,504,0
+female,Arab,80+,FebB,18/08/2021,12+,35,0
+female,ultra-Orthodox Jews,60-69,JanB,18/08/2021,2nd,1052,4.752851711
+female,ultra-Orthodox Jews,60-69,JanB,18/08/2021,12+,1813,0
+female,ultra-Orthodox Jews,60-69,FebA,18/08/2021,2nd,1444,0.692520776
+female,ultra-Orthodox Jews,60-69,FebA,18/08/2021,12+,526,0
+female,ultra-Orthodox Jews,60-69,FebB,18/08/2021,2nd,643,3.110419907
+female,ultra-Orthodox Jews,60-69,FebB,18/08/2021,12+,51,0
+female,ultra-Orthodox Jews,70-79,JanB,18/08/2021,2nd,672,1.488095238
+female,ultra-Orthodox Jews,70-79,JanB,18/08/2021,12+,1798,0
+female,ultra-Orthodox Jews,70-79,FebA,18/08/2021,2nd,926,1.079913607
+female,ultra-Orthodox Jews,70-79,FebA,18/08/2021,12+,481,0
+female,ultra-Orthodox Jews,70-79,FebB,18/08/2021,2nd,331,3.021148036
+female,ultra-Orthodox Jews,70-79,FebB,18/08/2021,12+,45,0
+female,ultra-Orthodox Jews,80+,JanB,18/08/2021,2nd,503,1.988071571
+female,ultra-Orthodox Jews,80+,JanB,18/08/2021,12+,934,0
+female,ultra-Orthodox Jews,80+,FebA,18/08/2021,2nd,595,0
+female,ultra-Orthodox Jews,80+,FebA,18/08/2021,12+,276,0
+female,ultra-Orthodox Jews,80+,FebB,18/08/2021,2nd,168,0
+female,ultra-Orthodox Jews,80+,FebB,18/08/2021,12+,29,0
+male,General Jewish,60-69,JanB,18/08/2021,2nd,16059,1.743570583
+male,General Jewish,60-69,JanB,18/08/2021,12+,57165,0.069972886
+male,General Jewish,60-69,FebA,18/08/2021,2nd,20198,1.584315279
+male,General Jewish,60-69,FebA,18/08/2021,12+,12854,0.233390384
+male,General Jewish,60-69,FebB,18/08/2021,2nd,6826,0.585994726
+male,General Jewish,60-69,FebB,18/08/2021,12+,1058,0
+male,General Jewish,70-79,JanB,18/08/2021,2nd,9156,1.31061599
+male,General Jewish,70-79,JanB,18/08/2021,12+,60653,0.082436153
+male,General Jewish,70-79,FebA,18/08/2021,2nd,9479,0.949467243
+male,General Jewish,70-79,FebA,18/08/2021,12+,10676,0.187336081
+male,General Jewish,70-79,FebB,18/08/2021,2nd,2752,0.726744186
+male,General Jewish,70-79,FebB,18/08/2021,12+,669,0
+male,General Jewish,80+,JanB,18/08/2021,2nd,4982,1.003613007
+male,General Jewish,80+,JanB,18/08/2021,12+,26408,0.151469252
+male,General Jewish,80+,FebA,18/08/2021,2nd,5925,0.675105485
+male,General Jewish,80+,FebA,18/08/2021,12+,5736,0.174337517
+male,General Jewish,80+,FebB,18/08/2021,2nd,1541,0.648929267
+male,General Jewish,80+,FebB,18/08/2021,12+,329,0
+male,Arab,60-69,JanB,18/08/2021,2nd,2274,0.439753738
+male,Arab,60-69,JanB,18/08/2021,12+,2814,0
+male,Arab,60-69,FebA,18/08/2021,2nd,4940,0.20242915
+male,Arab,60-69,FebA,18/08/2021,12+,1407,0
+male,Arab,60-69,FebB,18/08/2021,2nd,2458,0
+male,Arab,60-69,FebB,18/08/2021,12+,272,0
+male,Arab,70-79,JanB,18/08/2021,2nd,888,1.126126126
+male,Arab,70-79,JanB,18/08/2021,12+,1800,1.111111111
+male,Arab,70-79,FebA,18/08/2021,2nd,2108,0.474383302
+male,Arab,70-79,FebA,18/08/2021,12+,854,0
+male,Arab,70-79,FebB,18/08/2021,2nd,885,0
+male,Arab,70-79,FebB,18/08/2021,12+,138,0
+male,Arab,80+,JanB,18/08/2021,2nd,370,0
+male,Arab,80+,JanB,18/08/2021,12+,576,0
+male,Arab,80+,FebA,18/08/2021,2nd,836,1.196172249
+male,Arab,80+,FebA,18/08/2021,12+,317,0
+male,Arab,80+,FebB,18/08/2021,2nd,308,3.246753247
+male,Arab,80+,FebB,18/08/2021,12+,38,0
+male,ultra-Orthodox Jews,60-69,JanB,18/08/2021,2nd,1024,3.90625
+male,ultra-Orthodox Jews,60-69,JanB,18/08/2021,12+,2000,0
+male,ultra-Orthodox Jews,60-69,FebA,18/08/2021,2nd,1185,3.375527426
+male,ultra-Orthodox Jews,60-69,FebA,18/08/2021,12+,571,0
+male,ultra-Orthodox Jews,60-69,FebB,18/08/2021,2nd,502,0
+male,ultra-Orthodox Jews,60-69,FebB,18/08/2021,12+,68,0
+male,ultra-Orthodox Jews,70-79,JanB,18/08/2021,2nd,542,9.225092251
+male,ultra-Orthodox Jews,70-79,JanB,18/08/2021,12+,1921,0.520562207
+male,ultra-Orthodox Jews,70-79,FebA,18/08/2021,2nd,640,3.125
+male,ultra-Orthodox Jews,70-79,FebA,18/08/2021,12+,459,0
+male,ultra-Orthodox Jews,70-79,FebB,18/08/2021,2nd,191,0
+male,ultra-Orthodox Jews,70-79,FebB,18/08/2021,12+,32,0
+male,ultra-Orthodox Jews,80+,JanB,18/08/2021,2nd,270,0
+male,ultra-Orthodox Jews,80+,JanB,18/08/2021,12+,869,0
+male,ultra-Orthodox Jews,80+,FebA,18/08/2021,2nd,351,5.698005698
+male,ultra-Orthodox Jews,80+,FebA,18/08/2021,12+,217,0
+male,ultra-Orthodox Jews,80+,FebB,18/08/2021,2nd,88,0
+male,ultra-Orthodox Jews,80+,FebB,18/08/2021,12+,17,0
+female,General Jewish,60-69,JanB,19/08/2021,2nd,18643,0.643673229
+female,General Jewish,60-69,JanB,19/08/2021,12+,57908,0.138150169
+female,General Jewish,60-69,FebA,19/08/2021,2nd,24531,1.141412906
+female,General Jewish,60-69,FebA,19/08/2021,12+,13751,0.072721984
+female,General Jewish,60-69,FebB,19/08/2021,2nd,8497,1.412263152
+female,General Jewish,60-69,FebB,19/08/2021,12+,1078,0
+female,General Jewish,70-79,JanB,19/08/2021,2nd,10471,1.24152421
+female,General Jewish,70-79,JanB,19/08/2021,12+,61116,0.016362327
+female,General Jewish,70-79,FebA,19/08/2021,2nd,13248,0.528381643
+female,General Jewish,70-79,FebA,19/08/2021,12+,13370,0
+female,General Jewish,70-79,FebB,19/08/2021,2nd,4125,1.212121212
+female,General Jewish,70-79,FebB,19/08/2021,12+,924,0
+female,General Jewish,80+,JanB,19/08/2021,2nd,7433,1.345351809
+female,General Jewish,80+,JanB,19/08/2021,12+,31868,0.094138321
+female,General Jewish,80+,FebA,19/08/2021,2nd,9449,0.846650439
+female,General Jewish,80+,FebA,19/08/2021,12+,8290,0.120627262
+female,General Jewish,80+,FebB,19/08/2021,2nd,2713,2.211573903
+female,General Jewish,80+,FebB,19/08/2021,12+,559,0
+female,Arab,60-69,JanB,19/08/2021,2nd,1972,1.014198783
+female,Arab,60-69,JanB,19/08/2021,12+,1637,0
+female,Arab,60-69,FebA,19/08/2021,2nd,5687,1.23087744
+female,Arab,60-69,FebA,19/08/2021,12+,1027,0
+female,Arab,60-69,FebB,19/08/2021,2nd,2735,0.365630713
+female,Arab,60-69,FebB,19/08/2021,12+,218,0
+female,Arab,70-79,JanB,19/08/2021,2nd,1017,0.983284169
+female,Arab,70-79,JanB,19/08/2021,12+,1047,0
+female,Arab,70-79,FebA,19/08/2021,2nd,2950,0.677966102
+female,Arab,70-79,FebA,19/08/2021,12+,667,0
+female,Arab,70-79,FebB,19/08/2021,2nd,1301,0
+female,Arab,70-79,FebB,19/08/2021,12+,119,0
+female,Arab,80+,JanB,19/08/2021,2nd,583,3.430531732
+female,Arab,80+,JanB,19/08/2021,12+,414,0
+female,Arab,80+,FebA,19/08/2021,2nd,1124,0
+female,Arab,80+,FebA,19/08/2021,12+,252,0
+female,Arab,80+,FebB,19/08/2021,2nd,484,0
+female,Arab,80+,FebB,19/08/2021,12+,43,0
+female,ultra-Orthodox Jews,60-69,JanB,19/08/2021,2nd,936,1.068376068
+female,ultra-Orthodox Jews,60-69,JanB,19/08/2021,12+,1836,0
+female,ultra-Orthodox Jews,60-69,FebA,19/08/2021,2nd,1314,0.761035008
+female,ultra-Orthodox Jews,60-69,FebA,19/08/2021,12+,540,0
+female,ultra-Orthodox Jews,60-69,FebB,19/08/2021,2nd,594,1.683501684
+female,ultra-Orthodox Jews,60-69,FebB,19/08/2021,12+,53,0
+female,ultra-Orthodox Jews,70-79,JanB,19/08/2021,2nd,582,3.436426117
+female,ultra-Orthodox Jews,70-79,JanB,19/08/2021,12+,1820,0
+female,ultra-Orthodox Jews,70-79,FebA,19/08/2021,2nd,842,1.187648456
+female,ultra-Orthodox Jews,70-79,FebA,19/08/2021,12+,489,0
+female,ultra-Orthodox Jews,70-79,FebB,19/08/2021,2nd,314,3.184713376
+female,ultra-Orthodox Jews,70-79,FebB,19/08/2021,12+,45,0
+female,ultra-Orthodox Jews,80+,JanB,19/08/2021,2nd,435,0
+female,ultra-Orthodox Jews,80+,JanB,19/08/2021,12+,947,1.055966209
+female,ultra-Orthodox Jews,80+,FebA,19/08/2021,2nd,530,0
+female,ultra-Orthodox Jews,80+,FebA,19/08/2021,12+,283,0
+female,ultra-Orthodox Jews,80+,FebB,19/08/2021,2nd,160,0
+female,ultra-Orthodox Jews,80+,FebB,19/08/2021,12+,30,0
+male,General Jewish,60-69,JanB,19/08/2021,2nd,14110,1.133947555
+male,General Jewish,60-69,JanB,19/08/2021,12+,60830,0.065757028
+male,General Jewish,60-69,FebA,19/08/2021,2nd,18125,1.15862069
+male,General Jewish,60-69,FebA,19/08/2021,12+,14190,0.140944327
+male,General Jewish,60-69,FebB,19/08/2021,2nd,6396,1.094434021
+male,General Jewish,60-69,FebB,19/08/2021,12+,1151,0
+male,General Jewish,70-79,JanB,19/08/2021,2nd,8037,1.368669902
+male,General Jewish,70-79,JanB,19/08/2021,12+,64324,0.077731484
+male,General Jewish,70-79,FebA,19/08/2021,2nd,8467,0.708633518
+male,General Jewish,70-79,FebA,19/08/2021,12+,11586,0
+male,General Jewish,70-79,FebB,19/08/2021,2nd,2572,1.166407465
+male,General Jewish,70-79,FebB,19/08/2021,12+,715,0
+male,General Jewish,80+,JanB,19/08/2021,2nd,4403,1.589825119
+male,General Jewish,80+,JanB,19/08/2021,12+,27826,0.179688062
+male,General Jewish,80+,FebA,19/08/2021,2nd,5358,1.679731243
+male,General Jewish,80+,FebA,19/08/2021,12+,6165,0.162206002
+male,General Jewish,80+,FebB,19/08/2021,2nd,1446,0.691562932
+male,General Jewish,80+,FebB,19/08/2021,12+,359,0
+male,Arab,60-69,JanB,19/08/2021,2nd,2072,0.965250965
+male,Arab,60-69,JanB,19/08/2021,12+,3033,0
+male,Arab,60-69,FebA,19/08/2021,2nd,4658,0.214684414
+male,Arab,60-69,FebA,19/08/2021,12+,1619,0
+male,Arab,60-69,FebB,19/08/2021,2nd,2367,0.422475708
+male,Arab,60-69,FebB,19/08/2021,12+,314,0
+male,Arab,70-79,JanB,19/08/2021,2nd,811,0
+male,Arab,70-79,JanB,19/08/2021,12+,1936,0
+male,Arab,70-79,FebA,19/08/2021,2nd,1971,1.014713343
+male,Arab,70-79,FebA,19/08/2021,12+,975,0
+male,Arab,70-79,FebB,19/08/2021,2nd,851,0
+male,Arab,70-79,FebB,19/08/2021,12+,155,0
+male,Arab,80+,JanB,19/08/2021,2nd,340,0
+male,Arab,80+,JanB,19/08/2021,12+,619,0
+male,Arab,80+,FebA,19/08/2021,2nd,783,0
+male,Arab,80+,FebA,19/08/2021,12+,351,0
+male,Arab,80+,FebB,19/08/2021,2nd,292,0
+male,Arab,80+,FebB,19/08/2021,12+,43,0
+male,ultra-Orthodox Jews,60-69,JanB,19/08/2021,2nd,915,1.092896175
+male,ultra-Orthodox Jews,60-69,JanB,19/08/2021,12+,2024,0.494071146
+male,ultra-Orthodox Jews,60-69,FebA,19/08/2021,2nd,1065,0
+male,ultra-Orthodox Jews,60-69,FebA,19/08/2021,12+,579,0
+male,ultra-Orthodox Jews,60-69,FebB,19/08/2021,2nd,471,0
+male,ultra-Orthodox Jews,60-69,FebB,19/08/2021,12+,68,0
+male,ultra-Orthodox Jews,70-79,JanB,19/08/2021,2nd,476,0
+male,ultra-Orthodox Jews,70-79,JanB,19/08/2021,12+,1947,0
+male,ultra-Orthodox Jews,70-79,FebA,19/08/2021,2nd,568,0
+male,ultra-Orthodox Jews,70-79,FebA,19/08/2021,12+,467,0
+male,ultra-Orthodox Jews,70-79,FebB,19/08/2021,2nd,180,0
+male,ultra-Orthodox Jews,70-79,FebB,19/08/2021,12+,35,0
+male,ultra-Orthodox Jews,80+,JanB,19/08/2021,2nd,239,0
+male,ultra-Orthodox Jews,80+,JanB,19/08/2021,12+,879,0
+male,ultra-Orthodox Jews,80+,FebA,19/08/2021,2nd,315,0
+male,ultra-Orthodox Jews,80+,FebA,19/08/2021,12+,221,0
+male,ultra-Orthodox Jews,80+,FebB,19/08/2021,2nd,81,0
+male,ultra-Orthodox Jews,80+,FebB,19/08/2021,12+,17,0
+female,General Jewish,60-69,JanB,20/08/2021,2nd,17603,0.454467988
+female,General Jewish,60-69,JanB,20/08/2021,12+,69003,0.014492124
+female,General Jewish,60-69,FebA,20/08/2021,2nd,23450,0.511727079
+female,General Jewish,60-69,FebA,20/08/2021,12+,17866,0.167916713
+female,General Jewish,60-69,FebB,20/08/2021,2nd,8244,0.606501698
+female,General Jewish,60-69,FebB,20/08/2021,12+,1484,0
+female,General Jewish,70-79,JanB,20/08/2021,2nd,9900,0.303030303
+female,General Jewish,70-79,JanB,20/08/2021,12+,71793,0.027857869
+female,General Jewish,70-79,FebA,20/08/2021,2nd,12719,0.471735199
+female,General Jewish,70-79,FebA,20/08/2021,12+,17107,0
+female,General Jewish,70-79,FebB,20/08/2021,2nd,4013,0.249190132
+female,General Jewish,70-79,FebB,20/08/2021,12+,1182,0
+female,General Jewish,80+,JanB,20/08/2021,2nd,7042,0.568020449
+female,General Jewish,80+,JanB,20/08/2021,12+,37345,0.053554693
+female,General Jewish,80+,FebA,20/08/2021,2nd,9086,0.220118864
+female,General Jewish,80+,FebA,20/08/2021,12+,10328,0.096824167
+female,General Jewish,80+,FebB,20/08/2021,2nd,2637,0
+female,General Jewish,80+,FebB,20/08/2021,12+,748,0
+female,Arab,60-69,JanB,20/08/2021,2nd,1875,0.533333333
+female,Arab,60-69,JanB,20/08/2021,12+,1957,0
+female,Arab,60-69,FebA,20/08/2021,2nd,5498,0.181884322
+female,Arab,60-69,FebA,20/08/2021,12+,1258,0
+female,Arab,60-69,FebB,20/08/2021,2nd,2683,0.745434215
+female,Arab,60-69,FebB,20/08/2021,12+,262,0
+female,Arab,70-79,JanB,20/08/2021,2nd,976,1.024590164
+female,Arab,70-79,JanB,20/08/2021,12+,1259,0
+female,Arab,70-79,FebA,20/08/2021,2nd,2851,0.350754121
+female,Arab,70-79,FebA,20/08/2021,12+,792,0
+female,Arab,70-79,FebB,20/08/2021,2nd,1279,0
+female,Arab,70-79,FebB,20/08/2021,12+,144,0
+female,Arab,80+,JanB,20/08/2021,2nd,559,1.788908766
+female,Arab,80+,JanB,20/08/2021,12+,547,0
+female,Arab,80+,FebA,20/08/2021,2nd,1086,0.920810313
+female,Arab,80+,FebA,20/08/2021,12+,299,0
+female,Arab,80+,FebB,20/08/2021,2nd,472,0
+female,Arab,80+,FebB,20/08/2021,12+,51,0
+female,ultra-Orthodox Jews,60-69,JanB,20/08/2021,2nd,901,2.219755827
+female,ultra-Orthodox Jews,60-69,JanB,20/08/2021,12+,2302,0
+female,ultra-Orthodox Jews,60-69,FebA,20/08/2021,2nd,1280,0
+female,ultra-Orthodox Jews,60-69,FebA,20/08/2021,12+,726,0
+female,ultra-Orthodox Jews,60-69,FebB,20/08/2021,2nd,590,0
+female,ultra-Orthodox Jews,60-69,FebB,20/08/2021,12+,83,0
+female,ultra-Orthodox Jews,70-79,JanB,20/08/2021,2nd,562,1.779359431
+female,ultra-Orthodox Jews,70-79,JanB,20/08/2021,12+,2230,0
+female,ultra-Orthodox Jews,70-79,FebA,20/08/2021,2nd,827,0
+female,ultra-Orthodox Jews,70-79,FebA,20/08/2021,12+,659,0
+female,ultra-Orthodox Jews,70-79,FebB,20/08/2021,2nd,308,0
+female,ultra-Orthodox Jews,70-79,FebB,20/08/2021,12+,67,0
+female,ultra-Orthodox Jews,80+,JanB,20/08/2021,2nd,423,7.092198582
+female,ultra-Orthodox Jews,80+,JanB,20/08/2021,12+,1188,0
+female,ultra-Orthodox Jews,80+,FebA,20/08/2021,2nd,522,1.915708812
+female,ultra-Orthodox Jews,80+,FebA,20/08/2021,12+,390,0
+female,ultra-Orthodox Jews,80+,FebB,20/08/2021,2nd,159,0
+female,ultra-Orthodox Jews,80+,FebB,20/08/2021,12+,45,0
+male,General Jewish,60-69,JanB,20/08/2021,2nd,13111,0.53390283
+male,General Jewish,60-69,JanB,20/08/2021,12+,70674,0.02829895
+male,General Jewish,60-69,FebA,20/08/2021,2nd,17097,1.228285664
+male,General Jewish,60-69,FebA,20/08/2021,12+,17739,0.056372964
+male,General Jewish,60-69,FebB,20/08/2021,2nd,6156,0.32488629
+male,General Jewish,60-69,FebB,20/08/2021,12+,1489,0
+male,General Jewish,70-79,JanB,20/08/2021,2nd,7591,0.790409696
+male,General Jewish,70-79,JanB,20/08/2021,12+,73954,0.081131514
+male,General Jewish,70-79,FebA,20/08/2021,2nd,8081,0.247494122
+male,General Jewish,70-79,FebA,20/08/2021,12+,14380,0
+male,General Jewish,70-79,FebB,20/08/2021,2nd,2498,1.200960769
+male,General Jewish,70-79,FebB,20/08/2021,12+,915,0
+male,General Jewish,80+,JanB,20/08/2021,2nd,4164,1.200768492
+male,General Jewish,80+,JanB,20/08/2021,12+,32168,0.062173589
+male,General Jewish,80+,FebA,20/08/2021,2nd,5147,0.777151739
+male,General Jewish,80+,FebA,20/08/2021,12+,7707,0
+male,General Jewish,80+,FebB,20/08/2021,2nd,1401,0
+male,General Jewish,80+,FebB,20/08/2021,12+,479,0
+male,Arab,60-69,JanB,20/08/2021,2nd,1928,0.518672199
+male,Arab,60-69,JanB,20/08/2021,12+,3479,0
+male,Arab,60-69,FebA,20/08/2021,2nd,4458,0.67294751
+male,Arab,60-69,FebA,20/08/2021,12+,1909,0
+male,Arab,60-69,FebB,20/08/2021,2nd,2298,0
+male,Arab,60-69,FebB,20/08/2021,12+,381,0
+male,Arab,70-79,JanB,20/08/2021,2nd,759,2.635046113
+male,Arab,70-79,JanB,20/08/2021,12+,2202,0
+male,Arab,70-79,FebA,20/08/2021,2nd,1870,0
+male,Arab,70-79,FebA,20/08/2021,12+,1165,0
+male,Arab,70-79,FebB,20/08/2021,2nd,831,0
+male,Arab,70-79,FebB,20/08/2021,12+,186,0
+male,Arab,80+,JanB,20/08/2021,2nd,323,0
+male,Arab,80+,JanB,20/08/2021,12+,728,0
+male,Arab,80+,FebA,20/08/2021,2nd,751,0
+male,Arab,80+,FebA,20/08/2021,12+,402,0
+male,Arab,80+,FebB,20/08/2021,2nd,291,0
+male,Arab,80+,FebB,20/08/2021,12+,52,0
+male,ultra-Orthodox Jews,60-69,JanB,20/08/2021,2nd,876,2.283105023
+male,ultra-Orthodox Jews,60-69,JanB,20/08/2021,12+,2468,0
+male,ultra-Orthodox Jews,60-69,FebA,20/08/2021,2nd,1033,0
+male,ultra-Orthodox Jews,60-69,FebA,20/08/2021,12+,732,0
+male,ultra-Orthodox Jews,60-69,FebB,20/08/2021,2nd,461,2.169197397
+male,ultra-Orthodox Jews,60-69,FebB,20/08/2021,12+,98,0
+male,ultra-Orthodox Jews,70-79,JanB,20/08/2021,2nd,462,2.164502165
+male,ultra-Orthodox Jews,70-79,JanB,20/08/2021,12+,2365,0
+male,ultra-Orthodox Jews,70-79,FebA,20/08/2021,2nd,562,0
+male,ultra-Orthodox Jews,70-79,FebA,20/08/2021,12+,605,0
+male,ultra-Orthodox Jews,70-79,FebB,20/08/2021,2nd,178,0
+male,ultra-Orthodox Jews,70-79,FebB,20/08/2021,12+,51,0
+male,ultra-Orthodox Jews,80+,JanB,20/08/2021,2nd,233,0
+male,ultra-Orthodox Jews,80+,JanB,20/08/2021,12+,1058,0
+male,ultra-Orthodox Jews,80+,FebA,20/08/2021,2nd,309,0
+male,ultra-Orthodox Jews,80+,FebA,20/08/2021,12+,285,0
+male,ultra-Orthodox Jews,80+,FebB,20/08/2021,2nd,80,25
+male,ultra-Orthodox Jews,80+,FebB,20/08/2021,12+,21,0
+female,General Jewish,60-69,JanB,21/08/2021,2nd,17084,0.409740108
+female,General Jewish,60-69,JanB,21/08/2021,12+,78875,0.038034865
+female,General Jewish,60-69,FebA,21/08/2021,2nd,22956,0.348492769
+female,General Jewish,60-69,FebA,21/08/2021,12+,22137,0
+female,General Jewish,60-69,FebB,21/08/2021,2nd,8160,0.245098039
+female,General Jewish,60-69,FebB,21/08/2021,12+,1958,0
+female,General Jewish,70-79,JanB,21/08/2021,2nd,9676,0.310045473
+female,General Jewish,70-79,JanB,21/08/2021,12+,81311,0.049193836
+female,General Jewish,70-79,FebA,21/08/2021,2nd,12462,0.080243942
+female,General Jewish,70-79,FebA,21/08/2021,12+,20926,0
+female,General Jewish,70-79,FebB,21/08/2021,2nd,3978,0
+female,General Jewish,70-79,FebB,21/08/2021,12+,1520,0
+female,General Jewish,80+,JanB,21/08/2021,2nd,6875,0.290909091
+female,General Jewish,80+,JanB,21/08/2021,12+,42461,0.14130614
+female,General Jewish,80+,FebA,21/08/2021,2nd,8906,0.785986975
+female,General Jewish,80+,FebA,21/08/2021,12+,12510,0
+female,General Jewish,80+,FebB,21/08/2021,2nd,2612,0
+female,General Jewish,80+,FebB,21/08/2021,12+,965,0
+female,Arab,60-69,JanB,21/08/2021,2nd,1796,1.113585746
+female,Arab,60-69,JanB,21/08/2021,12+,2202,0
+female,Arab,60-69,FebA,21/08/2021,2nd,5380,0.743494424
+female,Arab,60-69,FebA,21/08/2021,12+,1452,0
+female,Arab,60-69,FebB,21/08/2021,2nd,2628,0
+female,Arab,60-69,FebB,21/08/2021,12+,309,0
+female,Arab,70-79,JanB,21/08/2021,2nd,930,0
+female,Arab,70-79,JanB,21/08/2021,12+,1437,0
+female,Arab,70-79,FebA,21/08/2021,2nd,2758,0.362581581
+female,Arab,70-79,FebA,21/08/2021,12+,915,0
+female,Arab,70-79,FebB,21/08/2021,2nd,1256,0.796178344
+female,Arab,70-79,FebB,21/08/2021,12+,171,0
+female,Arab,80+,JanB,21/08/2021,2nd,533,0
+female,Arab,80+,JanB,21/08/2021,12+,641,0
+female,Arab,80+,FebA,21/08/2021,2nd,1066,0.938086304
+female,Arab,80+,FebA,21/08/2021,12+,364,0
+female,Arab,80+,FebB,21/08/2021,2nd,463,0
+female,Arab,80+,FebB,21/08/2021,12+,61,0
+female,ultra-Orthodox Jews,60-69,JanB,21/08/2021,2nd,897,0
+female,ultra-Orthodox Jews,60-69,JanB,21/08/2021,12+,2681,0.372995151
+female,ultra-Orthodox Jews,60-69,FebA,21/08/2021,2nd,1278,0
+female,ultra-Orthodox Jews,60-69,FebA,21/08/2021,12+,951,0
+female,ultra-Orthodox Jews,60-69,FebB,21/08/2021,2nd,587,0
+female,ultra-Orthodox Jews,60-69,FebB,21/08/2021,12+,128,0
+female,ultra-Orthodox Jews,70-79,JanB,21/08/2021,2nd,559,1.788908766
+female,ultra-Orthodox Jews,70-79,JanB,21/08/2021,12+,2638,0
+female,ultra-Orthodox Jews,70-79,FebA,21/08/2021,2nd,825,0
+female,ultra-Orthodox Jews,70-79,FebA,21/08/2021,12+,861,0
+female,ultra-Orthodox Jews,70-79,FebB,21/08/2021,2nd,308,0
+female,ultra-Orthodox Jews,70-79,FebB,21/08/2021,12+,93,0
+female,ultra-Orthodox Jews,80+,JanB,21/08/2021,2nd,417,0
+female,ultra-Orthodox Jews,80+,JanB,21/08/2021,12+,1532,0
+female,ultra-Orthodox Jews,80+,FebA,21/08/2021,2nd,518,1.930501931
+female,ultra-Orthodox Jews,80+,FebA,21/08/2021,12+,490,0
+female,ultra-Orthodox Jews,80+,FebB,21/08/2021,2nd,159,0
+female,ultra-Orthodox Jews,80+,FebB,21/08/2021,12+,56,0
+male,General Jewish,60-69,JanB,21/08/2021,2nd,12697,0.39379381
+male,General Jewish,60-69,JanB,21/08/2021,12+,79839,0.050100828
+male,General Jewish,60-69,FebA,21/08/2021,2nd,16644,0.720980534
+male,General Jewish,60-69,FebA,21/08/2021,12+,21508,0.046494328
+male,General Jewish,60-69,FebB,21/08/2021,2nd,6076,0.493745885
+male,General Jewish,60-69,FebB,21/08/2021,12+,1950,0
+male,General Jewish,70-79,JanB,21/08/2021,2nd,7403,0.675401864
+male,General Jewish,70-79,JanB,21/08/2021,12+,82434,0.036392751
+male,General Jewish,70-79,FebA,21/08/2021,2nd,7910,0.505689001
+male,General Jewish,70-79,FebA,21/08/2021,12+,17285,0.173560891
+male,General Jewish,70-79,FebB,21/08/2021,2nd,2462,0
+male,General Jewish,70-79,FebB,21/08/2021,12+,1164,0
+male,General Jewish,80+,JanB,21/08/2021,2nd,4062,0.738552437
+male,General Jewish,80+,JanB,21/08/2021,12+,36217,0.110445371
+male,General Jewish,80+,FebA,21/08/2021,2nd,5046,0.594530321
+male,General Jewish,80+,FebA,21/08/2021,12+,9268,0
+male,General Jewish,80+,FebB,21/08/2021,2nd,1388,0
+male,General Jewish,80+,FebB,21/08/2021,12+,600,0
+male,Arab,60-69,JanB,21/08/2021,2nd,1846,1.083423619
+male,Arab,60-69,JanB,21/08/2021,12+,3818,0
+male,Arab,60-69,FebA,21/08/2021,2nd,4301,0
+male,Arab,60-69,FebA,21/08/2021,12+,2198,0
+male,Arab,60-69,FebB,21/08/2021,2nd,2238,0.446827525
+male,Arab,60-69,FebB,21/08/2021,12+,451,0
+male,Arab,70-79,JanB,21/08/2021,2nd,727,1.375515818
+male,Arab,70-79,JanB,21/08/2021,12+,2450,0
+male,Arab,70-79,FebA,21/08/2021,2nd,1797,0
+male,Arab,70-79,FebA,21/08/2021,12+,1320,0
+male,Arab,70-79,FebB,21/08/2021,2nd,813,1.2300123
+male,Arab,70-79,FebB,21/08/2021,12+,223,0
+male,Arab,80+,JanB,21/08/2021,2nd,308,0
+male,Arab,80+,JanB,21/08/2021,12+,804,0
+male,Arab,80+,FebA,21/08/2021,2nd,727,2.751031637
+male,Arab,80+,FebA,21/08/2021,12+,463,0
+male,Arab,80+,FebB,21/08/2021,2nd,284,0
+male,Arab,80+,FebB,21/08/2021,12+,61,0
+male,ultra-Orthodox Jews,60-69,JanB,21/08/2021,2nd,872,1.146788991
+male,ultra-Orthodox Jews,60-69,JanB,21/08/2021,12+,2827,0
+male,ultra-Orthodox Jews,60-69,FebA,21/08/2021,2nd,1031,0
+male,ultra-Orthodox Jews,60-69,FebA,21/08/2021,12+,921,0
+male,ultra-Orthodox Jews,60-69,FebB,21/08/2021,2nd,460,0
+male,ultra-Orthodox Jews,60-69,FebB,21/08/2021,12+,127,0
+male,ultra-Orthodox Jews,70-79,JanB,21/08/2021,2nd,458,0
+male,ultra-Orthodox Jews,70-79,JanB,21/08/2021,12+,2688,0
+male,ultra-Orthodox Jews,70-79,FebA,21/08/2021,2nd,560,0
+male,ultra-Orthodox Jews,70-79,FebA,21/08/2021,12+,726,0
+male,ultra-Orthodox Jews,70-79,FebB,21/08/2021,2nd,178,5.617977528
+male,ultra-Orthodox Jews,70-79,FebB,21/08/2021,12+,66,0
+male,ultra-Orthodox Jews,80+,JanB,21/08/2021,2nd,232,0
+male,ultra-Orthodox Jews,80+,JanB,21/08/2021,12+,1266,0
+male,ultra-Orthodox Jews,80+,FebA,21/08/2021,2nd,306,0
+male,ultra-Orthodox Jews,80+,FebA,21/08/2021,12+,355,0
+male,ultra-Orthodox Jews,80+,FebB,21/08/2021,2nd,79,0
+male,ultra-Orthodox Jews,80+,FebB,21/08/2021,12+,30,0
+female,General Jewish,60-69,JanB,22/08/2021,2nd,15326,1.304971943
+female,General Jewish,60-69,JanB,22/08/2021,12+,87965,0.056840789
+female,General Jewish,60-69,FebA,22/08/2021,2nd,20922,1.099321289
+female,General Jewish,60-69,FebA,22/08/2021,12+,26716,0.112292259
+female,General Jewish,60-69,FebB,22/08/2021,2nd,7693,0.519953204
+female,General Jewish,60-69,FebB,22/08/2021,12+,2472,0
+female,General Jewish,70-79,JanB,22/08/2021,2nd,8643,0.925604535
+female,General Jewish,70-79,JanB,22/08/2021,12+,89761,0.066844175
+female,General Jewish,70-79,FebA,22/08/2021,2nd,11245,0.800355714
+female,General Jewish,70-79,FebA,22/08/2021,12+,24855,0.12070006
+female,General Jewish,70-79,FebB,22/08/2021,2nd,3736,1.070663812
+female,General Jewish,70-79,FebB,22/08/2021,12+,1918,0
+female,General Jewish,80+,JanB,22/08/2021,2nd,6231,0.641951533
+female,General Jewish,80+,JanB,22/08/2021,12+,47023,0.297726644
+female,General Jewish,80+,FebA,22/08/2021,2nd,8216,1.095423564
+female,General Jewish,80+,FebA,22/08/2021,12+,15085,0
+female,General Jewish,80+,FebB,22/08/2021,2nd,2442,0.819000819
+female,General Jewish,80+,FebB,22/08/2021,12+,1211,0
+female,Arab,60-69,JanB,22/08/2021,2nd,1697,1.178550383
+female,Arab,60-69,JanB,22/08/2021,12+,2501,0
+female,Arab,60-69,FebA,22/08/2021,2nd,5171,0
+female,Arab,60-69,FebA,22/08/2021,12+,1748,0
+female,Arab,60-69,FebB,22/08/2021,2nd,2573,0.777302759
+female,Arab,60-69,FebB,22/08/2021,12+,366,0
+female,Arab,70-79,JanB,22/08/2021,2nd,867,0
+female,Arab,70-79,JanB,22/08/2021,12+,1677,0
+female,Arab,70-79,FebA,22/08/2021,2nd,2647,0.755572346
+female,Arab,70-79,FebA,22/08/2021,12+,1125,0
+female,Arab,70-79,FebB,22/08/2021,2nd,1223,0
+female,Arab,70-79,FebB,22/08/2021,12+,209,0
+female,Arab,80+,JanB,22/08/2021,2nd,494,0
+female,Arab,80+,JanB,22/08/2021,12+,760,1.315789474
+female,Arab,80+,FebA,22/08/2021,2nd,1027,0
+female,Arab,80+,FebA,22/08/2021,12+,431,0
+female,Arab,80+,FebB,22/08/2021,2nd,451,0
+female,Arab,80+,FebB,22/08/2021,12+,75,0
+female,ultra-Orthodox Jews,60-69,JanB,22/08/2021,2nd,786,8.905852417
+female,ultra-Orthodox Jews,60-69,JanB,22/08/2021,12+,3045,0.328407225
+female,ultra-Orthodox Jews,60-69,FebA,22/08/2021,2nd,1154,0.866551127
+female,ultra-Orthodox Jews,60-69,FebA,22/08/2021,12+,1185,0
+female,ultra-Orthodox Jews,60-69,FebB,22/08/2021,2nd,550,0
+female,ultra-Orthodox Jews,60-69,FebB,22/08/2021,12+,169,0
+female,ultra-Orthodox Jews,70-79,JanB,22/08/2021,2nd,484,4.132231405
+female,ultra-Orthodox Jews,70-79,JanB,22/08/2021,12+,3018,0
+female,ultra-Orthodox Jews,70-79,FebA,22/08/2021,2nd,736,1.358695652
+female,ultra-Orthodox Jews,70-79,FebA,22/08/2021,12+,1089,0
+female,ultra-Orthodox Jews,70-79,FebB,22/08/2021,2nd,288,0
+female,ultra-Orthodox Jews,70-79,FebB,22/08/2021,12+,125,0
+female,ultra-Orthodox Jews,80+,JanB,22/08/2021,2nd,376,0
+female,ultra-Orthodox Jews,80+,JanB,22/08/2021,12+,1798,0
+female,ultra-Orthodox Jews,80+,FebA,22/08/2021,2nd,480,4.166666667
+female,ultra-Orthodox Jews,80+,FebA,22/08/2021,12+,651,1.53609831
+female,ultra-Orthodox Jews,80+,FebB,22/08/2021,2nd,145,0
+female,ultra-Orthodox Jews,80+,FebB,22/08/2021,12+,70,0
+male,General Jewish,60-69,JanB,22/08/2021,2nd,11370,1.846965699
+male,General Jewish,60-69,JanB,22/08/2021,12+,88313,0.067940167
+male,General Jewish,60-69,FebA,22/08/2021,2nd,15192,1.448130595
+male,General Jewish,60-69,FebA,22/08/2021,12+,25616,0.156152405
+male,General Jewish,60-69,FebB,22/08/2021,2nd,5722,1.922404754
+male,General Jewish,60-69,FebB,22/08/2021,12+,2462,0
+male,General Jewish,70-79,JanB,22/08/2021,2nd,6590,1.213960546
+male,General Jewish,70-79,JanB,22/08/2021,12+,89837,0.077918898
+male,General Jewish,70-79,FebA,22/08/2021,2nd,7187,1.252261027
+male,General Jewish,70-79,FebA,22/08/2021,12+,20361,0.049113501
+male,General Jewish,70-79,FebB,22/08/2021,2nd,2303,3.473729917
+male,General Jewish,70-79,FebB,22/08/2021,12+,1466,0
+male,General Jewish,80+,JanB,22/08/2021,2nd,3682,2.172732211
+male,General Jewish,80+,JanB,22/08/2021,12+,39725,0.100692259
+male,General Jewish,80+,FebA,22/08/2021,2nd,4590,1.307189542
+male,General Jewish,80+,FebA,22/08/2021,12+,11011,0.181636545
+male,General Jewish,80+,FebB,22/08/2021,2nd,1304,0.766871166
+male,General Jewish,80+,FebB,22/08/2021,12+,746,0
+male,Arab,60-69,JanB,22/08/2021,2nd,1733,1.15406809
+male,Arab,60-69,JanB,22/08/2021,12+,4300,0.23255814
+male,Arab,60-69,FebA,22/08/2021,2nd,4115,0.243013366
+male,Arab,60-69,FebA,22/08/2021,12+,2624,0
+male,Arab,60-69,FebB,22/08/2021,2nd,2189,0
+male,Arab,60-69,FebB,22/08/2021,12+,554,0
+male,Arab,70-79,JanB,22/08/2021,2nd,671,1.490312966
+male,Arab,70-79,JanB,22/08/2021,12+,2756,0
+male,Arab,70-79,FebA,22/08/2021,2nd,1689,0
+male,Arab,70-79,FebA,22/08/2021,12+,1586,0.630517024
+male,Arab,70-79,FebB,22/08/2021,2nd,782,0
+male,Arab,70-79,FebB,22/08/2021,12+,269,0
+male,Arab,80+,JanB,22/08/2021,2nd,280,0
+male,Arab,80+,JanB,22/08/2021,12+,935,0
+male,Arab,80+,FebA,22/08/2021,2nd,684,0
+male,Arab,80+,FebA,22/08/2021,12+,553,0
+male,Arab,80+,FebB,22/08/2021,2nd,276,0
+male,Arab,80+,FebB,22/08/2021,12+,73,0
+male,ultra-Orthodox Jews,60-69,JanB,22/08/2021,2nd,764,9.162303665
+male,ultra-Orthodox Jews,60-69,JanB,22/08/2021,12+,3220,0
+male,ultra-Orthodox Jews,60-69,FebA,22/08/2021,2nd,939,0
+male,ultra-Orthodox Jews,60-69,FebA,22/08/2021,12+,1135,0.881057269
+male,ultra-Orthodox Jews,60-69,FebB,22/08/2021,2nd,430,2.325581395
+male,ultra-Orthodox Jews,60-69,FebB,22/08/2021,12+,171,0
+male,ultra-Orthodox Jews,70-79,JanB,22/08/2021,2nd,395,5.063291139
+male,ultra-Orthodox Jews,70-79,JanB,22/08/2021,12+,3016,0
+male,ultra-Orthodox Jews,70-79,FebA,22/08/2021,2nd,509,1.964636542
+male,ultra-Orthodox Jews,70-79,FebA,22/08/2021,12+,882,0
+male,ultra-Orthodox Jews,70-79,FebB,22/08/2021,2nd,164,0
+male,ultra-Orthodox Jews,70-79,FebB,22/08/2021,12+,92,0
+male,ultra-Orthodox Jews,80+,JanB,22/08/2021,2nd,210,0
+male,ultra-Orthodox Jews,80+,JanB,22/08/2021,12+,1434,0
+male,ultra-Orthodox Jews,80+,FebA,22/08/2021,2nd,287,6.968641115
+male,ultra-Orthodox Jews,80+,FebA,22/08/2021,12+,458,0
+male,ultra-Orthodox Jews,80+,FebB,22/08/2021,2nd,76,0
+male,ultra-Orthodox Jews,80+,FebB,22/08/2021,12+,36,0
+female,General Jewish,60-69,JanB,23/08/2021,2nd,14004,0.856898029
+female,General Jewish,60-69,JanB,23/08/2021,12+,95024,0.063141943
+female,General Jewish,60-69,FebA,23/08/2021,2nd,19253,0.986859191
+female,General Jewish,60-69,FebA,23/08/2021,12+,30566,0.098148269
+female,General Jewish,60-69,FebB,23/08/2021,2nd,7277,0.549677065
+female,General Jewish,60-69,FebB,23/08/2021,12+,2928,0
+female,General Jewish,70-79,JanB,23/08/2021,2nd,7828,0.638732754
+female,General Jewish,70-79,JanB,23/08/2021,12+,96274,0.051935102
+female,General Jewish,70-79,FebA,23/08/2021,2nd,10255,0.682593857
+female,General Jewish,70-79,FebA,23/08/2021,12+,28182,0.035483642
+female,General Jewish,70-79,FebB,23/08/2021,2nd,3521,0.284010224
+female,General Jewish,70-79,FebB,23/08/2021,12+,2261,0
+female,General Jewish,80+,JanB,23/08/2021,2nd,5657,1.414177126
+female,General Jewish,80+,JanB,23/08/2021,12+,50666,0.138159713
+female,General Jewish,80+,FebA,23/08/2021,2nd,7496,0.266808965
+female,General Jewish,80+,FebA,23/08/2021,12+,17383,0.230109877
+female,General Jewish,80+,FebB,23/08/2021,2nd,2307,0.433463372
+female,General Jewish,80+,FebB,23/08/2021,12+,1428,0
+female,Arab,60-69,JanB,23/08/2021,2nd,1590,1.257861635
+female,Arab,60-69,JanB,23/08/2021,12+,2822,0
+female,Arab,60-69,FebA,23/08/2021,2nd,4955,1.009081736
+female,Arab,60-69,FebA,23/08/2021,12+,2137,0
+female,Arab,60-69,FebB,23/08/2021,2nd,2492,0.802568218
+female,Arab,60-69,FebB,23/08/2021,12+,449,0
+female,Arab,70-79,JanB,23/08/2021,2nd,808,0
+female,Arab,70-79,JanB,23/08/2021,12+,1888,0
+female,Arab,70-79,FebA,23/08/2021,2nd,2518,0.794281176
+female,Arab,70-79,FebA,23/08/2021,12+,1352,0
+female,Arab,70-79,FebB,23/08/2021,2nd,1203,0.831255195
+female,Arab,70-79,FebB,23/08/2021,12+,264,0
+female,Arab,80+,JanB,23/08/2021,2nd,471,0
+female,Arab,80+,JanB,23/08/2021,12+,860,0
+female,Arab,80+,FebA,23/08/2021,2nd,982,0
+female,Arab,80+,FebA,23/08/2021,12+,525,0
+female,Arab,80+,FebB,23/08/2021,2nd,441,0
+female,Arab,80+,FebB,23/08/2021,12+,92,0
+female,ultra-Orthodox Jews,60-69,JanB,23/08/2021,2nd,684,2.923976608
+female,ultra-Orthodox Jews,60-69,JanB,23/08/2021,12+,3307,0
+female,ultra-Orthodox Jews,60-69,FebA,23/08/2021,2nd,1066,0
+female,ultra-Orthodox Jews,60-69,FebA,23/08/2021,12+,1360,0
+female,ultra-Orthodox Jews,60-69,FebB,23/08/2021,2nd,518,1.930501931
+female,ultra-Orthodox Jews,60-69,FebB,23/08/2021,12+,193,0
+female,ultra-Orthodox Jews,70-79,JanB,23/08/2021,2nd,429,2.331002331
+female,ultra-Orthodox Jews,70-79,JanB,23/08/2021,12+,3281,0
+female,ultra-Orthodox Jews,70-79,FebA,23/08/2021,2nd,676,1.479289941
+female,ultra-Orthodox Jews,70-79,FebA,23/08/2021,12+,1254,0
+female,ultra-Orthodox Jews,70-79,FebB,23/08/2021,2nd,274,3.649635036
+female,ultra-Orthodox Jews,70-79,FebB,23/08/2021,12+,148,0
+female,ultra-Orthodox Jews,80+,JanB,23/08/2021,2nd,351,2.849002849
+female,ultra-Orthodox Jews,80+,JanB,23/08/2021,12+,1935,0
+female,ultra-Orthodox Jews,80+,FebA,23/08/2021,2nd,434,0
+female,ultra-Orthodox Jews,80+,FebA,23/08/2021,12+,738,0
+female,ultra-Orthodox Jews,80+,FebB,23/08/2021,2nd,134,0
+female,ultra-Orthodox Jews,80+,FebB,23/08/2021,12+,83,0
+male,General Jewish,60-69,JanB,23/08/2021,2nd,10351,1.159308279
+male,General Jewish,60-69,JanB,23/08/2021,12+,94888,0.105387404
+male,General Jewish,60-69,FebA,23/08/2021,2nd,13887,1.51220566
+male,General Jewish,60-69,FebA,23/08/2021,12+,29140,0.240219629
+male,General Jewish,60-69,FebB,23/08/2021,2nd,5403,1.480658893
+male,General Jewish,60-69,FebB,23/08/2021,12+,2892,0
+male,General Jewish,70-79,JanB,23/08/2021,2nd,6004,1.332445037
+male,General Jewish,70-79,JanB,23/08/2021,12+,95577,0.136015987
+male,General Jewish,70-79,FebA,23/08/2021,2nd,6540,1.070336391
+male,General Jewish,70-79,FebA,23/08/2021,12+,22935,0.087202965
+male,General Jewish,70-79,FebB,23/08/2021,2nd,2172,1.38121547
+male,General Jewish,70-79,FebB,23/08/2021,12+,1731,0.577700751
+male,General Jewish,80+,JanB,23/08/2021,2nd,3350,2.089552239
+male,General Jewish,80+,JanB,23/08/2021,12+,42496,0.07059488
+male,General Jewish,80+,FebA,23/08/2021,2nd,4219,0.237022991
+male,General Jewish,80+,FebA,23/08/2021,12+,12504,0.159948816
+male,General Jewish,80+,FebB,23/08/2021,2nd,1212,0
+male,General Jewish,80+,FebB,23/08/2021,12+,903,0
+male,Arab,60-69,JanB,23/08/2021,2nd,1617,0.61842919
+male,Arab,60-69,JanB,23/08/2021,12+,4789,0
+male,Arab,60-69,FebA,23/08/2021,2nd,3897,0.769822941
+male,Arab,60-69,FebA,23/08/2021,12+,3112,0.321336761
+male,Arab,60-69,FebB,23/08/2021,2nd,2121,0.471475719
+male,Arab,60-69,FebB,23/08/2021,12+,670,0
+male,Arab,70-79,JanB,23/08/2021,2nd,623,0
+male,Arab,70-79,JanB,23/08/2021,12+,3018,0.662690524
+male,Arab,70-79,FebA,23/08/2021,2nd,1594,1.254705144
+male,Arab,70-79,FebA,23/08/2021,12+,1893,0
+male,Arab,70-79,FebB,23/08/2021,2nd,756,0
+male,Arab,70-79,FebB,23/08/2021,12+,317,0
+male,Arab,80+,JanB,23/08/2021,2nd,260,0
+male,Arab,80+,JanB,23/08/2021,12+,1053,0
+male,Arab,80+,FebA,23/08/2021,2nd,650,0
+male,Arab,80+,FebA,23/08/2021,12+,645,0
+male,Arab,80+,FebB,23/08/2021,2nd,270,0
+male,Arab,80+,FebB,23/08/2021,12+,85,0
+male,ultra-Orthodox Jews,60-69,JanB,23/08/2021,2nd,655,6.106870229
+male,ultra-Orthodox Jews,60-69,JanB,23/08/2021,12+,3479,0
+male,ultra-Orthodox Jews,60-69,FebA,23/08/2021,2nd,855,3.50877193
+male,ultra-Orthodox Jews,60-69,FebA,23/08/2021,12+,1344,0
+male,ultra-Orthodox Jews,60-69,FebB,23/08/2021,2nd,401,0
+male,ultra-Orthodox Jews,60-69,FebB,23/08/2021,12+,199,0
+male,ultra-Orthodox Jews,70-79,JanB,23/08/2021,2nd,356,8.426966292
+male,ultra-Orthodox Jews,70-79,JanB,23/08/2021,12+,3259,0
+male,ultra-Orthodox Jews,70-79,FebA,23/08/2021,2nd,454,0
+male,ultra-Orthodox Jews,70-79,FebA,23/08/2021,12+,1000,1
+male,ultra-Orthodox Jews,70-79,FebB,23/08/2021,2nd,155,0
+male,ultra-Orthodox Jews,70-79,FebB,23/08/2021,12+,112,0
+male,ultra-Orthodox Jews,80+,JanB,23/08/2021,2nd,189,0
+male,ultra-Orthodox Jews,80+,JanB,23/08/2021,12+,1552,0
+male,ultra-Orthodox Jews,80+,FebA,23/08/2021,2nd,262,0
+male,ultra-Orthodox Jews,80+,FebA,23/08/2021,12+,543,0
+male,ultra-Orthodox Jews,80+,FebB,23/08/2021,2nd,72,0
+male,ultra-Orthodox Jews,80+,FebB,23/08/2021,12+,43,0
+female,General Jewish,60-69,JanB,24/08/2021,2nd,12787,1.251270822
+female,General Jewish,60-69,JanB,24/08/2021,12+,101991,0.049023933
+female,General Jewish,60-69,FebA,24/08/2021,2nd,17902,1.452351693
+female,General Jewish,60-69,FebA,24/08/2021,12+,34663,0
+female,General Jewish,60-69,FebB,24/08/2021,2nd,6906,1.448016218
+female,General Jewish,60-69,FebB,24/08/2021,12+,3488,0
+female,General Jewish,70-79,JanB,24/08/2021,2nd,7090,0.987306065
+female,General Jewish,70-79,JanB,24/08/2021,12+,101986,0.058831604
+female,General Jewish,70-79,FebA,24/08/2021,2nd,9396,0.744997871
+female,General Jewish,70-79,FebA,24/08/2021,12+,31475,0.031771247
+female,General Jewish,70-79,FebB,24/08/2021,2nd,3327,0.60114217
+female,General Jewish,70-79,FebB,24/08/2021,12+,2654,0
+female,General Jewish,80+,JanB,24/08/2021,2nd,5161,0.581282697
+female,General Jewish,80+,JanB,24/08/2021,12+,53923,0.111269774
+female,General Jewish,80+,FebA,24/08/2021,2nd,6979,0.859722023
+female,General Jewish,80+,FebA,24/08/2021,12+,19684,0.101605365
+female,General Jewish,80+,FebB,24/08/2021,2nd,2174,0.459981601
+female,General Jewish,80+,FebB,24/08/2021,12+,1645,0
+female,Arab,60-69,JanB,24/08/2021,2nd,1501,0.666222518
+female,Arab,60-69,JanB,24/08/2021,12+,3156,0.316856781
+female,Arab,60-69,FebA,24/08/2021,2nd,4751,1.473374027
+female,Arab,60-69,FebA,24/08/2021,12+,2521,0.396667989
+female,Arab,60-69,FebB,24/08/2021,2nd,2397,0.417188152
+female,Arab,60-69,FebB,24/08/2021,12+,544,0
+female,Arab,70-79,JanB,24/08/2021,2nd,757,1.321003963
+female,Arab,70-79,JanB,24/08/2021,12+,2085,0
+female,Arab,70-79,FebA,24/08/2021,2nd,2391,0.418235048
+female,Arab,70-79,FebA,24/08/2021,12+,1586,0
+female,Arab,70-79,FebB,24/08/2021,2nd,1155,0
+female,Arab,70-79,FebB,24/08/2021,12+,313,0
+female,Arab,80+,JanB,24/08/2021,2nd,439,0
+female,Arab,80+,JanB,24/08/2021,12+,925,0
+female,Arab,80+,FebA,24/08/2021,2nd,937,0
+female,Arab,80+,FebA,24/08/2021,12+,664,0
+female,Arab,80+,FebB,24/08/2021,2nd,424,0
+female,Arab,80+,FebB,24/08/2021,12+,112,0
+female,ultra-Orthodox Jews,60-69,JanB,24/08/2021,2nd,606,4.95049505
+female,ultra-Orthodox Jews,60-69,JanB,24/08/2021,12+,3521,0
+female,ultra-Orthodox Jews,60-69,FebA,24/08/2021,2nd,971,1.029866117
+female,ultra-Orthodox Jews,60-69,FebA,24/08/2021,12+,1542,0
+female,ultra-Orthodox Jews,60-69,FebB,24/08/2021,2nd,486,0
+female,ultra-Orthodox Jews,60-69,FebB,24/08/2021,12+,224,0
+female,ultra-Orthodox Jews,70-79,JanB,24/08/2021,2nd,361,0
+female,ultra-Orthodox Jews,70-79,JanB,24/08/2021,12+,3499,0
+female,ultra-Orthodox Jews,70-79,FebA,24/08/2021,2nd,590,5.084745763
+female,ultra-Orthodox Jews,70-79,FebA,24/08/2021,12+,1440,0.694444444
+female,ultra-Orthodox Jews,70-79,FebB,24/08/2021,2nd,251,3.984063745
+female,ultra-Orthodox Jews,70-79,FebB,24/08/2021,12+,174,0
+female,ultra-Orthodox Jews,80+,JanB,24/08/2021,2nd,312,0
+female,ultra-Orthodox Jews,80+,JanB,24/08/2021,12+,2091,0
+female,ultra-Orthodox Jews,80+,FebA,24/08/2021,2nd,401,4.987531172
+female,ultra-Orthodox Jews,80+,FebA,24/08/2021,12+,885,0
+female,ultra-Orthodox Jews,80+,FebB,24/08/2021,2nd,118,0
+female,ultra-Orthodox Jews,80+,FebB,24/08/2021,12+,102,0
+male,General Jewish,60-69,JanB,24/08/2021,2nd,9493,1.896133993
+male,General Jewish,60-69,JanB,24/08/2021,12+,100836,0.099170931
+male,General Jewish,60-69,FebA,24/08/2021,2nd,12848,1.011830635
+male,General Jewish,60-69,FebA,24/08/2021,12+,32640,0.06127451
+male,General Jewish,60-69,FebB,24/08/2021,2nd,5114,0.782166601
+male,General Jewish,60-69,FebB,24/08/2021,12+,3419,0.292483182
+male,General Jewish,70-79,JanB,24/08/2021,2nd,5488,0.54664723
+male,General Jewish,70-79,JanB,24/08/2021,12+,100516,0.099486649
+male,General Jewish,70-79,FebA,24/08/2021,2nd,5998,2.000666889
+male,General Jewish,70-79,FebA,24/08/2021,12+,25384,0.039394894
+male,General Jewish,70-79,FebB,24/08/2021,2nd,2054,1.947419669
+male,General Jewish,70-79,FebB,24/08/2021,12+,2031,0
+male,General Jewish,80+,JanB,24/08/2021,2nd,3091,0.970559689
+male,General Jewish,80+,JanB,24/08/2021,12+,44998,0.11111605
+male,General Jewish,80+,FebA,24/08/2021,2nd,3889,0.25713551
+male,General Jewish,80+,FebA,24/08/2021,12+,14013,0.071362306
+male,General Jewish,80+,FebB,24/08/2021,2nd,1145,2.620087336
+male,General Jewish,80+,FebB,24/08/2021,12+,1026,0
+male,Arab,60-69,JanB,24/08/2021,2nd,1498,0
+male,Arab,60-69,JanB,24/08/2021,12+,5221,0.191534189
+male,Arab,60-69,FebA,24/08/2021,2nd,3706,0.809498111
+male,Arab,60-69,FebA,24/08/2021,12+,3567,0
+male,Arab,60-69,FebB,24/08/2021,2nd,2028,0
+male,Arab,60-69,FebB,24/08/2021,12+,803,0
+male,Arab,70-79,JanB,24/08/2021,2nd,588,0
+male,Arab,70-79,JanB,24/08/2021,12+,3249,0
+male,Arab,70-79,FebA,24/08/2021,2nd,1514,1.321003963
+male,Arab,70-79,FebA,24/08/2021,12+,2165,0
+male,Arab,70-79,FebB,24/08/2021,2nd,720,2.777777778
+male,Arab,70-79,FebB,24/08/2021,12+,373,0
+male,Arab,80+,JanB,24/08/2021,2nd,238,0
+male,Arab,80+,JanB,24/08/2021,12+,1138,0
+male,Arab,80+,FebA,24/08/2021,2nd,615,0
+male,Arab,80+,FebA,24/08/2021,12+,754,1.326259947
+male,Arab,80+,FebB,24/08/2021,2nd,258,0
+male,Arab,80+,FebB,24/08/2021,12+,100,0
+male,ultra-Orthodox Jews,60-69,JanB,24/08/2021,2nd,580,1.724137931
+male,ultra-Orthodox Jews,60-69,JanB,24/08/2021,12+,3709,0
+male,ultra-Orthodox Jews,60-69,FebA,24/08/2021,2nd,784,5.102040816
+male,ultra-Orthodox Jews,60-69,FebA,24/08/2021,12+,1493,0.669792364
+male,ultra-Orthodox Jews,60-69,FebB,24/08/2021,2nd,368,5.434782609
+male,ultra-Orthodox Jews,60-69,FebB,24/08/2021,12+,224,0
+male,ultra-Orthodox Jews,70-79,JanB,24/08/2021,2nd,311,3.215434084
+male,ultra-Orthodox Jews,70-79,JanB,24/08/2021,12+,3466,0.288517023
+male,ultra-Orthodox Jews,70-79,FebA,24/08/2021,2nd,404,7.425742574
+male,ultra-Orthodox Jews,70-79,FebA,24/08/2021,12+,1113,0
+male,ultra-Orthodox Jews,70-79,FebB,24/08/2021,2nd,148,0
+male,ultra-Orthodox Jews,70-79,FebB,24/08/2021,12+,129,0
+male,ultra-Orthodox Jews,80+,JanB,24/08/2021,2nd,172,0
+male,ultra-Orthodox Jews,80+,JanB,24/08/2021,12+,1664,0.600961538
+male,ultra-Orthodox Jews,80+,FebA,24/08/2021,2nd,239,4.184100418
+male,ultra-Orthodox Jews,80+,FebA,24/08/2021,12+,608,0
+male,ultra-Orthodox Jews,80+,FebB,24/08/2021,2nd,64,15.625
+male,ultra-Orthodox Jews,80+,FebB,24/08/2021,12+,51,19.60784314
+female,General Jewish,60-69,JanB,25/08/2021,2nd,11913,1.51095442
+female,General Jewish,60-69,JanB,25/08/2021,12+,105177,0.057046693
+female,General Jewish,60-69,FebA,25/08/2021,2nd,16751,1.731239926
+female,General Jewish,60-69,FebA,25/08/2021,12+,36608,0.027316434
+female,General Jewish,60-69,FebB,25/08/2021,2nd,6604,0.757116899
+female,General Jewish,60-69,FebB,25/08/2021,12+,3765,0.26560425
+female,General Jewish,70-79,JanB,25/08/2021,2nd,6566,0.456899178
+female,General Jewish,70-79,JanB,25/08/2021,12+,104168,0.076799017
+female,General Jewish,70-79,FebA,25/08/2021,2nd,8765,0.570450656
+female,General Jewish,70-79,FebA,25/08/2021,12+,32791,0.152480864
+female,General Jewish,70-79,FebB,25/08/2021,2nd,3143,0.636334712
+female,General Jewish,70-79,FebB,25/08/2021,12+,2806,0
+female,General Jewish,80+,JanB,25/08/2021,2nd,4801,0.624869819
+female,General Jewish,80+,JanB,25/08/2021,12+,55343,0.07227653
+female,General Jewish,80+,FebA,25/08/2021,2nd,6490,0.61633282
+female,General Jewish,80+,FebA,25/08/2021,12+,20667,0.145158949
+female,General Jewish,80+,FebB,25/08/2021,2nd,2068,0
+female,General Jewish,80+,FebB,25/08/2021,12+,1760,0
+female,Arab,60-69,JanB,25/08/2021,2nd,1426,0.701262272
+female,Arab,60-69,JanB,25/08/2021,12+,3342,0
+female,Arab,60-69,FebA,25/08/2021,2nd,4556,0.877963126
+female,Arab,60-69,FebA,25/08/2021,12+,2763,0
+female,Arab,60-69,FebB,25/08/2021,2nd,2320,0.431034483
+female,Arab,60-69,FebB,25/08/2021,12+,604,0
+female,Arab,70-79,JanB,25/08/2021,2nd,721,1.386962552
+female,Arab,70-79,JanB,25/08/2021,12+,2218,0
+female,Arab,70-79,FebA,25/08/2021,2nd,2276,0.878734622
+female,Arab,70-79,FebA,25/08/2021,12+,1707,0
+female,Arab,70-79,FebB,25/08/2021,2nd,1121,0.89206066
+female,Arab,70-79,FebB,25/08/2021,12+,342,0
+female,Arab,80+,JanB,25/08/2021,2nd,420,2.380952381
+female,Arab,80+,JanB,25/08/2021,12+,978,0
+female,Arab,80+,FebA,25/08/2021,2nd,908,0
+female,Arab,80+,FebA,25/08/2021,12+,720,0
+female,Arab,80+,FebB,25/08/2021,2nd,415,0
+female,Arab,80+,FebB,25/08/2021,12+,130,0
+female,ultra-Orthodox Jews,60-69,JanB,25/08/2021,2nd,553,3.616636528
+female,ultra-Orthodox Jews,60-69,JanB,25/08/2021,12+,3603,0
+female,ultra-Orthodox Jews,60-69,FebA,25/08/2021,2nd,915,2.18579235
+female,ultra-Orthodox Jews,60-69,FebA,25/08/2021,12+,1588,0.629722922
+female,ultra-Orthodox Jews,60-69,FebB,25/08/2021,2nd,465,2.150537634
+female,ultra-Orthodox Jews,60-69,FebB,25/08/2021,12+,235,0
+female,ultra-Orthodox Jews,70-79,JanB,25/08/2021,2nd,333,0
+female,ultra-Orthodox Jews,70-79,JanB,25/08/2021,12+,3539,0
+female,ultra-Orthodox Jews,70-79,FebA,25/08/2021,2nd,551,1.814882033
+female,ultra-Orthodox Jews,70-79,FebA,25/08/2021,12+,1470,0
+female,ultra-Orthodox Jews,70-79,FebB,25/08/2021,2nd,240,0
+female,ultra-Orthodox Jews,70-79,FebB,25/08/2021,12+,180,0
+female,ultra-Orthodox Jews,80+,JanB,25/08/2021,2nd,297,0
+female,ultra-Orthodox Jews,80+,JanB,25/08/2021,12+,2124,0
+female,ultra-Orthodox Jews,80+,FebA,25/08/2021,2nd,376,0
+female,ultra-Orthodox Jews,80+,FebA,25/08/2021,12+,911,0
+female,ultra-Orthodox Jews,80+,FebB,25/08/2021,2nd,114,8.771929825
+female,ultra-Orthodox Jews,80+,FebB,25/08/2021,12+,106,0
+male,General Jewish,60-69,JanB,25/08/2021,2nd,8833,1.471753651
+male,General Jewish,60-69,JanB,25/08/2021,12+,103995,0.057695081
+male,General Jewish,60-69,FebA,25/08/2021,2nd,12057,1.575848055
+male,General Jewish,60-69,FebA,25/08/2021,12+,34559,0.289360225
+male,General Jewish,60-69,FebB,25/08/2021,2nd,4885,0.614124872
+male,General Jewish,60-69,FebB,25/08/2021,12+,3724,0.268528464
+male,General Jewish,70-79,JanB,25/08/2021,2nd,5106,0.391696044
+male,General Jewish,70-79,JanB,25/08/2021,12+,102419,0.078110507
+male,General Jewish,70-79,FebA,25/08/2021,2nd,5566,1.07797341
+male,General Jewish,70-79,FebA,25/08/2021,12+,26486,0.075511591
+male,General Jewish,70-79,FebB,25/08/2021,2nd,1949,2.565418163
+male,General Jewish,70-79,FebB,25/08/2021,12+,2140,0
+male,General Jewish,80+,JanB,25/08/2021,2nd,2872,1.740947075
+male,General Jewish,80+,JanB,25/08/2021,12+,45907,0.065349511
+male,General Jewish,80+,FebA,25/08/2021,2nd,3643,0.274499039
+male,General Jewish,80+,FebA,25/08/2021,12+,14591,0.274141594
+male,General Jewish,80+,FebB,25/08/2021,2nd,1075,0.930232558
+male,General Jewish,80+,FebB,25/08/2021,12+,1087,0
+male,Arab,60-69,JanB,25/08/2021,2nd,1409,0.709723208
+male,Arab,60-69,JanB,25/08/2021,12+,5535,0
+male,Arab,60-69,FebA,25/08/2021,2nd,3523,0
+male,Arab,60-69,FebA,25/08/2021,12+,3877,0
+male,Arab,60-69,FebB,25/08/2021,2nd,1976,1.012145749
+male,Arab,60-69,FebB,25/08/2021,12+,893,0
+male,Arab,70-79,JanB,25/08/2021,2nd,555,1.801801802
+male,Arab,70-79,JanB,25/08/2021,12+,3404,0
+male,Arab,70-79,FebA,25/08/2021,2nd,1428,0
+male,Arab,70-79,FebA,25/08/2021,12+,2321,0
+male,Arab,70-79,FebB,25/08/2021,2nd,695,1.438848921
+male,Arab,70-79,FebB,25/08/2021,12+,408,0
+male,Arab,80+,JanB,25/08/2021,2nd,231,0
+male,Arab,80+,JanB,25/08/2021,12+,1202,0
+male,Arab,80+,FebA,25/08/2021,2nd,584,0
+male,Arab,80+,FebA,25/08/2021,12+,815,0
+male,Arab,80+,FebB,25/08/2021,2nd,251,0
+male,Arab,80+,FebB,25/08/2021,12+,113,0
+male,ultra-Orthodox Jews,60-69,JanB,25/08/2021,2nd,536,7.462686567
+male,ultra-Orthodox Jews,60-69,JanB,25/08/2021,12+,3796,0
+male,ultra-Orthodox Jews,60-69,FebA,25/08/2021,2nd,730,5.479452055
+male,ultra-Orthodox Jews,60-69,FebA,25/08/2021,12+,1541,0
+male,ultra-Orthodox Jews,60-69,FebB,25/08/2021,2nd,354,2.824858757
+male,ultra-Orthodox Jews,60-69,FebB,25/08/2021,12+,237,0
+male,ultra-Orthodox Jews,70-79,JanB,25/08/2021,2nd,283,0
+male,ultra-Orthodox Jews,70-79,JanB,25/08/2021,12+,3496,0.85812357
+male,ultra-Orthodox Jews,70-79,FebA,25/08/2021,2nd,368,2.717391304
+male,ultra-Orthodox Jews,70-79,FebA,25/08/2021,12+,1143,0
+male,ultra-Orthodox Jews,70-79,FebB,25/08/2021,2nd,134,7.462686567
+male,ultra-Orthodox Jews,70-79,FebB,25/08/2021,12+,137,0
+male,ultra-Orthodox Jews,80+,JanB,25/08/2021,2nd,155,0
+male,ultra-Orthodox Jews,80+,JanB,25/08/2021,12+,1690,0.591715976
+male,ultra-Orthodox Jews,80+,FebA,25/08/2021,2nd,222,0
+male,ultra-Orthodox Jews,80+,FebA,25/08/2021,12+,622,0
+male,ultra-Orthodox Jews,80+,FebB,25/08/2021,2nd,59,0
+male,ultra-Orthodox Jews,80+,FebB,25/08/2021,12+,52,0
+female,General Jewish,60-69,JanB,26/08/2021,2nd,11073,1.174026912
+female,General Jewish,60-69,JanB,26/08/2021,12+,107216,0.065288763
+female,General Jewish,60-69,FebA,26/08/2021,2nd,15636,1.34305449
+female,General Jewish,60-69,FebA,26/08/2021,12+,37901,0.105538112
+female,General Jewish,60-69,FebB,26/08/2021,2nd,6280,1.114649682
+female,General Jewish,60-69,FebB,26/08/2021,12+,3913,0
+female,General Jewish,70-79,JanB,26/08/2021,2nd,6156,0.64977258
+female,General Jewish,70-79,JanB,26/08/2021,12+,105493,0.094793019
+female,General Jewish,70-79,FebA,26/08/2021,2nd,8244,0.849102377
+female,General Jewish,70-79,FebA,26/08/2021,12+,33639,0.208091798
+female,General Jewish,70-79,FebB,26/08/2021,2nd,3001,1.666111296
+female,General Jewish,70-79,FebB,26/08/2021,12+,2894,0
+female,General Jewish,80+,JanB,26/08/2021,2nd,4503,0.444148346
+female,General Jewish,80+,JanB,26/08/2021,12+,56134,0.231588698
+female,General Jewish,80+,FebA,26/08/2021,2nd,6148,0.650618087
+female,General Jewish,80+,FebA,26/08/2021,12+,21199,0.141516109
+female,General Jewish,80+,FebB,26/08/2021,2nd,1983,3.025718608
+female,General Jewish,80+,FebB,26/08/2021,12+,1824,0
+female,Arab,60-69,JanB,26/08/2021,2nd,1348,1.483679525
+female,Arab,60-69,JanB,26/08/2021,12+,3509,0
+female,Arab,60-69,FebA,26/08/2021,2nd,4382,1.141031492
+female,Arab,60-69,FebA,26/08/2021,12+,3030,0
+female,Arab,60-69,FebB,26/08/2021,2nd,2255,0.44345898
+female,Arab,60-69,FebB,26/08/2021,12+,686,0
+female,Arab,70-79,JanB,26/08/2021,2nd,692,0
+female,Arab,70-79,JanB,26/08/2021,12+,2317,0
+female,Arab,70-79,FebA,26/08/2021,2nd,2185,1.372997712
+female,Arab,70-79,FebA,26/08/2021,12+,1850,0
+female,Arab,70-79,FebB,26/08/2021,2nd,1090,0.917431193
+female,Arab,70-79,FebB,26/08/2021,12+,383,2.610966057
+female,Arab,80+,JanB,26/08/2021,2nd,407,0
+female,Arab,80+,JanB,26/08/2021,12+,1023,0
+female,Arab,80+,FebA,26/08/2021,2nd,875,1.142857143
+female,Arab,80+,FebA,26/08/2021,12+,780,0
+female,Arab,80+,FebB,26/08/2021,2nd,406,0
+female,Arab,80+,FebB,26/08/2021,12+,144,0
+female,ultra-Orthodox Jews,60-69,JanB,26/08/2021,2nd,509,1.964636542
+female,ultra-Orthodox Jews,60-69,JanB,26/08/2021,12+,3616,0
+female,ultra-Orthodox Jews,60-69,FebA,26/08/2021,2nd,855,4.678362573
+female,ultra-Orthodox Jews,60-69,FebA,26/08/2021,12+,1595,0
+female,ultra-Orthodox Jews,60-69,FebB,26/08/2021,2nd,442,2.262443439
+female,ultra-Orthodox Jews,60-69,FebB,26/08/2021,12+,237,0
+female,ultra-Orthodox Jews,70-79,JanB,26/08/2021,2nd,314,12.7388535
+female,ultra-Orthodox Jews,70-79,JanB,26/08/2021,12+,3549,0
+female,ultra-Orthodox Jews,70-79,FebA,26/08/2021,2nd,521,1.919385797
+female,ultra-Orthodox Jews,70-79,FebA,26/08/2021,12+,1479,0
+female,ultra-Orthodox Jews,70-79,FebB,26/08/2021,2nd,233,0
+female,ultra-Orthodox Jews,70-79,FebB,26/08/2021,12+,184,0
+female,ultra-Orthodox Jews,80+,JanB,26/08/2021,2nd,278,3.597122302
+female,ultra-Orthodox Jews,80+,JanB,26/08/2021,12+,2131,0.938526513
+female,ultra-Orthodox Jews,80+,FebA,26/08/2021,2nd,347,2.88184438
+female,ultra-Orthodox Jews,80+,FebA,26/08/2021,12+,916,0
+female,ultra-Orthodox Jews,80+,FebB,26/08/2021,2nd,108,0
+female,ultra-Orthodox Jews,80+,FebB,26/08/2021,12+,106,0
+male,General Jewish,60-69,JanB,26/08/2021,2nd,8216,1.947419669
+male,General Jewish,60-69,JanB,26/08/2021,12+,105854,0.132257638
+male,General Jewish,60-69,FebA,26/08/2021,2nd,11239,1.245662425
+male,General Jewish,60-69,FebA,26/08/2021,12+,35802,0.111725602
+male,General Jewish,60-69,FebB,26/08/2021,2nd,4642,1.292546316
+male,General Jewish,60-69,FebB,26/08/2021,12+,3863,0.258866166
+male,General Jewish,70-79,JanB,26/08/2021,2nd,4782,0.418235048
+male,General Jewish,70-79,JanB,26/08/2021,12+,103588,0.067575395
+male,General Jewish,70-79,FebA,26/08/2021,2nd,5233,0.955474871
+male,General Jewish,70-79,FebA,26/08/2021,12+,27133,0.073710979
+male,General Jewish,70-79,FebB,26/08/2021,2nd,1858,1.076426265
+male,General Jewish,70-79,FebB,26/08/2021,12+,2195,0
+male,General Jewish,80+,JanB,26/08/2021,2nd,2725,0.366972477
+male,General Jewish,80+,JanB,26/08/2021,12+,46455,0.150683457
+male,General Jewish,80+,FebA,26/08/2021,2nd,3447,0.580214679
+male,General Jewish,80+,FebA,26/08/2021,12+,14903,0.134201168
+male,General Jewish,80+,FebB,26/08/2021,2nd,1025,2.926829268
+male,General Jewish,80+,FebB,26/08/2021,12+,1120,0
+male,Arab,60-69,JanB,26/08/2021,2nd,1341,0
+male,Arab,60-69,JanB,26/08/2021,12+,5787,0.172801106
+male,Arab,60-69,FebA,26/08/2021,2nd,3388,0.295159386
+male,Arab,60-69,FebA,26/08/2021,12+,4179,0.239291697
+male,Arab,60-69,FebB,26/08/2021,2nd,1921,0
+male,Arab,60-69,FebB,26/08/2021,12+,997,0
+male,Arab,70-79,JanB,26/08/2021,2nd,527,1.897533207
+male,Arab,70-79,JanB,26/08/2021,12+,3537,0.282725474
+male,Arab,70-79,FebA,26/08/2021,2nd,1355,0
+male,Arab,70-79,FebA,26/08/2021,12+,2496,0
+male,Arab,70-79,FebB,26/08/2021,2nd,676,0
+male,Arab,70-79,FebB,26/08/2021,12+,449,0
+male,Arab,80+,JanB,26/08/2021,2nd,221,0
+male,Arab,80+,JanB,26/08/2021,12+,1247,0
+male,Arab,80+,FebA,26/08/2021,2nd,553,1.808318264
+male,Arab,80+,FebA,26/08/2021,12+,869,0
+male,Arab,80+,FebB,26/08/2021,2nd,243,4.115226337
+male,Arab,80+,FebB,26/08/2021,12+,124,0
+male,ultra-Orthodox Jews,60-69,JanB,26/08/2021,2nd,486,2.057613169
+male,ultra-Orthodox Jews,60-69,JanB,26/08/2021,12+,3812,0.524658972
+male,ultra-Orthodox Jews,60-69,FebA,26/08/2021,2nd,694,2.88184438
+male,ultra-Orthodox Jews,60-69,FebA,26/08/2021,12+,1550,0
+male,ultra-Orthodox Jews,60-69,FebB,26/08/2021,2nd,333,0
+male,ultra-Orthodox Jews,60-69,FebB,26/08/2021,12+,237,0
+male,ultra-Orthodox Jews,70-79,JanB,26/08/2021,2nd,268,0
+male,ultra-Orthodox Jews,70-79,JanB,26/08/2021,12+,3497,0
+male,ultra-Orthodox Jews,70-79,FebA,26/08/2021,2nd,347,2.88184438
+male,ultra-Orthodox Jews,70-79,FebA,26/08/2021,12+,1150,0
+male,ultra-Orthodox Jews,70-79,FebB,26/08/2021,2nd,130,0
+male,ultra-Orthodox Jews,70-79,FebB,26/08/2021,12+,139,0
+male,ultra-Orthodox Jews,80+,JanB,26/08/2021,2nd,149,0
+male,ultra-Orthodox Jews,80+,JanB,26/08/2021,12+,1693,0
+male,ultra-Orthodox Jews,80+,FebA,26/08/2021,2nd,201,0
+male,ultra-Orthodox Jews,80+,FebA,26/08/2021,12+,627,0
+male,ultra-Orthodox Jews,80+,FebB,26/08/2021,2nd,58,0
+male,ultra-Orthodox Jews,80+,FebB,26/08/2021,12+,52,0
+female,General Jewish,60-69,JanB,27/08/2021,2nd,10717,0.746477559
+female,General Jewish,60-69,JanB,27/08/2021,12+,112237,0.026729153
+female,General Jewish,60-69,FebA,27/08/2021,2nd,15165,0.659413122
+female,General Jewish,60-69,FebA,27/08/2021,12+,41497,0.048196255
+female,General Jewish,60-69,FebB,27/08/2021,2nd,6145,0.81366965
+female,General Jewish,60-69,FebB,27/08/2021,12+,4442,0.225123818
+female,General Jewish,70-79,JanB,27/08/2021,2nd,5993,0.500584015
+female,General Jewish,70-79,JanB,27/08/2021,12+,108906,0.009182231
+female,General Jewish,70-79,FebA,27/08/2021,2nd,8067,0.619809099
+female,General Jewish,70-79,FebA,27/08/2021,12+,36148,0.027664048
+female,General Jewish,70-79,FebB,27/08/2021,2nd,2949,0.678195999
+female,General Jewish,70-79,FebB,27/08/2021,12+,3254,0
+female,General Jewish,80+,JanB,27/08/2021,2nd,4399,0.681973176
+female,General Jewish,80+,JanB,27/08/2021,12+,58286,0.034313557
+female,General Jewish,80+,FebA,27/08/2021,2nd,6036,0.828363154
+female,General Jewish,80+,FebA,27/08/2021,12+,22969,0.174147764
+female,General Jewish,80+,FebB,27/08/2021,2nd,1950,0
+female,General Jewish,80+,FebB,27/08/2021,12+,2019,0
+female,Arab,60-69,JanB,27/08/2021,2nd,1307,0.765110941
+female,Arab,60-69,JanB,27/08/2021,12+,3751,0
+female,Arab,60-69,FebA,27/08/2021,2nd,4295,0.465657742
+female,Arab,60-69,FebA,27/08/2021,12+,3320,0.301204819
+female,Arab,60-69,FebB,27/08/2021,2nd,2197,0.910332271
+female,Arab,60-69,FebB,27/08/2021,12+,750,0
+female,Arab,70-79,JanB,27/08/2021,2nd,671,1.490312966
+female,Arab,70-79,JanB,27/08/2021,12+,2450,0
+female,Arab,70-79,FebA,27/08/2021,2nd,2132,0.938086304
+female,Arab,70-79,FebA,27/08/2021,12+,2025,0
+female,Arab,70-79,FebB,27/08/2021,2nd,1071,0
+female,Arab,70-79,FebB,27/08/2021,12+,425,0
+female,Arab,80+,JanB,27/08/2021,2nd,398,0
+female,Arab,80+,JanB,27/08/2021,12+,1077,0
+female,Arab,80+,FebA,27/08/2021,2nd,854,0
+female,Arab,80+,FebA,27/08/2021,12+,850,0
+female,Arab,80+,FebB,27/08/2021,2nd,397,0
+female,Arab,80+,FebB,27/08/2021,12+,158,0
+female,ultra-Orthodox Jews,60-69,JanB,27/08/2021,2nd,497,0
+female,ultra-Orthodox Jews,60-69,JanB,27/08/2021,12+,3847,0
+female,ultra-Orthodox Jews,60-69,FebA,27/08/2021,2nd,835,3.592814371
+female,ultra-Orthodox Jews,60-69,FebA,27/08/2021,12+,1798,0
+female,ultra-Orthodox Jews,60-69,FebB,27/08/2021,2nd,437,0
+female,ultra-Orthodox Jews,60-69,FebB,27/08/2021,12+,265,0
+female,ultra-Orthodox Jews,70-79,JanB,27/08/2021,2nd,307,0
+female,ultra-Orthodox Jews,70-79,JanB,27/08/2021,12+,3720,0
+female,ultra-Orthodox Jews,70-79,FebA,27/08/2021,2nd,511,0
+female,ultra-Orthodox Jews,70-79,FebA,27/08/2021,12+,1634,0
+female,ultra-Orthodox Jews,70-79,FebB,27/08/2021,2nd,231,0
+female,ultra-Orthodox Jews,70-79,FebB,27/08/2021,12+,206,0
+female,ultra-Orthodox Jews,80+,JanB,27/08/2021,2nd,271,0
+female,ultra-Orthodox Jews,80+,JanB,27/08/2021,12+,2215,0
+female,ultra-Orthodox Jews,80+,FebA,27/08/2021,2nd,344,0
+female,ultra-Orthodox Jews,80+,FebA,27/08/2021,12+,1016,0
+female,ultra-Orthodox Jews,80+,FebB,27/08/2021,2nd,107,0
+female,ultra-Orthodox Jews,80+,FebB,27/08/2021,12+,123,0
+male,General Jewish,60-69,JanB,27/08/2021,2nd,7911,0.758437619
+male,General Jewish,60-69,JanB,27/08/2021,12+,110058,0.072688946
+male,General Jewish,60-69,FebA,27/08/2021,2nd,10843,0.922253989
+male,General Jewish,60-69,FebA,27/08/2021,12+,38830,0.051506567
+male,General Jewish,60-69,FebB,27/08/2021,2nd,4508,0.887311446
+male,General Jewish,60-69,FebB,27/08/2021,12+,4295,0
+male,General Jewish,70-79,JanB,27/08/2021,2nd,4654,0.42973786
+male,General Jewish,70-79,JanB,27/08/2021,12+,106184,0.103593762
+male,General Jewish,70-79,FebA,27/08/2021,2nd,5095,0.981354269
+male,General Jewish,70-79,FebA,27/08/2021,12+,28922,0.103727266
+male,General Jewish,70-79,FebB,27/08/2021,2nd,1828,1.641137856
+male,General Jewish,70-79,FebB,27/08/2021,12+,2424,0
+male,General Jewish,80+,JanB,27/08/2021,2nd,2670,1.123595506
+male,General Jewish,80+,JanB,27/08/2021,12+,47810,0.041832253
+male,General Jewish,80+,FebA,27/08/2021,2nd,3370,0.296735905
+male,General Jewish,80+,FebA,27/08/2021,12+,15969,0.062621329
+male,General Jewish,80+,FebB,27/08/2021,2nd,1011,1.978239367
+male,General Jewish,80+,FebB,27/08/2021,12+,1240,0
+male,Arab,60-69,JanB,27/08/2021,2nd,1291,0
+male,Arab,60-69,JanB,27/08/2021,12+,6126,0.163238655
+male,Arab,60-69,FebA,27/08/2021,2nd,3289,0
+male,Arab,60-69,FebA,27/08/2021,12+,4558,0
+male,Arab,60-69,FebB,27/08/2021,2nd,1866,0
+male,Arab,60-69,FebB,27/08/2021,12+,1120,0
+male,Arab,70-79,JanB,27/08/2021,2nd,507,1.972386588
+male,Arab,70-79,JanB,27/08/2021,12+,3678,0
+male,Arab,70-79,FebA,27/08/2021,2nd,1332,1.501501502
+male,Arab,70-79,FebA,27/08/2021,12+,2688,0
+male,Arab,70-79,FebB,27/08/2021,2nd,654,0
+male,Arab,70-79,FebB,27/08/2021,12+,502,0
+male,Arab,80+,JanB,27/08/2021,2nd,211,0
+male,Arab,80+,JanB,27/08/2021,12+,1314,0
+male,Arab,80+,FebA,27/08/2021,2nd,541,0
+male,Arab,80+,FebA,27/08/2021,12+,931,0
+male,Arab,80+,FebB,27/08/2021,2nd,235,0
+male,Arab,80+,FebB,27/08/2021,12+,134,0
+male,ultra-Orthodox Jews,60-69,JanB,27/08/2021,2nd,476,0
+male,ultra-Orthodox Jews,60-69,JanB,27/08/2021,12+,4016,0
+male,ultra-Orthodox Jews,60-69,FebA,27/08/2021,2nd,677,0
+male,ultra-Orthodox Jews,60-69,FebA,27/08/2021,12+,1728,0
+male,ultra-Orthodox Jews,60-69,FebB,27/08/2021,2nd,326,0
+male,ultra-Orthodox Jews,60-69,FebB,27/08/2021,12+,271,0
+male,ultra-Orthodox Jews,70-79,JanB,27/08/2021,2nd,264,0
+male,ultra-Orthodox Jews,70-79,JanB,27/08/2021,12+,3651,0.547795125
+male,ultra-Orthodox Jews,70-79,FebA,27/08/2021,2nd,342,0
+male,ultra-Orthodox Jews,70-79,FebA,27/08/2021,12+,1249,0
+male,ultra-Orthodox Jews,70-79,FebB,27/08/2021,2nd,130,7.692307692
+male,ultra-Orthodox Jews,70-79,FebB,27/08/2021,12+,154,0
+male,ultra-Orthodox Jews,80+,JanB,27/08/2021,2nd,149,0
+male,ultra-Orthodox Jews,80+,JanB,27/08/2021,12+,1764,0
+male,ultra-Orthodox Jews,80+,FebA,27/08/2021,2nd,199,0
+male,ultra-Orthodox Jews,80+,FebA,27/08/2021,12+,689,0
+male,ultra-Orthodox Jews,80+,FebB,27/08/2021,2nd,57,0
+male,ultra-Orthodox Jews,80+,FebB,27/08/2021,12+,58,0
+female,General Jewish,60-69,JanB,28/08/2021,2nd,10529,0.474878906
+female,General Jewish,60-69,JanB,28/08/2021,12+,116158,0.068871709
+female,General Jewish,60-69,FebA,28/08/2021,2nd,14905,0.13418316
+female,General Jewish,60-69,FebA,28/08/2021,12+,44779,0.044663793
+female,General Jewish,60-69,FebB,28/08/2021,2nd,6081,0.493339911
+female,General Jewish,60-69,FebB,28/08/2021,12+,4945,0
+female,General Jewish,70-79,JanB,28/08/2021,2nd,5912,0.50744249
+female,General Jewish,70-79,JanB,28/08/2021,12+,111674,0.044773179
+female,General Jewish,70-79,FebA,28/08/2021,2nd,7957,0.628377529
+female,General Jewish,70-79,FebA,28/08/2021,12+,38504,0.051942655
+female,General Jewish,70-79,FebB,28/08/2021,2nd,2915,0
+female,General Jewish,70-79,FebB,28/08/2021,12+,3614,0
+female,General Jewish,80+,JanB,28/08/2021,2nd,4342,0.460617227
+female,General Jewish,80+,JanB,28/08/2021,12+,59962,0.083386145
+female,General Jewish,80+,FebA,28/08/2021,2nd,5973,0.502260171
+female,General Jewish,80+,FebA,28/08/2021,12+,24643,0.08115895
+female,General Jewish,80+,FebB,28/08/2021,2nd,1937,0
+female,General Jewish,80+,FebB,28/08/2021,12+,2249,0
+female,Arab,60-69,JanB,28/08/2021,2nd,1275,0
+female,Arab,60-69,JanB,28/08/2021,12+,3972,0
+female,Arab,60-69,FebA,28/08/2021,2nd,4205,0.475624257
+female,Arab,60-69,FebA,28/08/2021,12+,3630,0
+female,Arab,60-69,FebB,28/08/2021,2nd,2167,0
+female,Arab,60-69,FebB,28/08/2021,12+,834,0
+female,Arab,70-79,JanB,28/08/2021,2nd,651,0
+female,Arab,70-79,JanB,28/08/2021,12+,2567,0
+female,Arab,70-79,FebA,28/08/2021,2nd,2074,0
+female,Arab,70-79,FebA,28/08/2021,12+,2189,0
+female,Arab,70-79,FebB,28/08/2021,2nd,1058,0.945179584
+female,Arab,70-79,FebB,28/08/2021,12+,483,0
+female,Arab,80+,JanB,28/08/2021,2nd,393,2.544529262
+female,Arab,80+,JanB,28/08/2021,12+,1151,0
+female,Arab,80+,FebA,28/08/2021,2nd,840,0
+female,Arab,80+,FebA,28/08/2021,12+,915,0
+female,Arab,80+,FebB,28/08/2021,2nd,393,0
+female,Arab,80+,FebB,28/08/2021,12+,181,0
+female,ultra-Orthodox Jews,60-69,JanB,28/08/2021,2nd,494,0
+female,ultra-Orthodox Jews,60-69,JanB,28/08/2021,12+,4026,0
+female,ultra-Orthodox Jews,60-69,FebA,28/08/2021,2nd,828,0
+female,ultra-Orthodox Jews,60-69,FebA,28/08/2021,12+,1953,0
+female,ultra-Orthodox Jews,60-69,FebB,28/08/2021,2nd,436,0
+female,ultra-Orthodox Jews,60-69,FebB,28/08/2021,12+,295,0
+female,ultra-Orthodox Jews,70-79,JanB,28/08/2021,2nd,306,0
+female,ultra-Orthodox Jews,70-79,JanB,28/08/2021,12+,3864,0
+female,ultra-Orthodox Jews,70-79,FebA,28/08/2021,2nd,509,0
+female,ultra-Orthodox Jews,70-79,FebA,28/08/2021,12+,1756,0.569476082
+female,ultra-Orthodox Jews,70-79,FebB,28/08/2021,2nd,230,0
+female,ultra-Orthodox Jews,70-79,FebB,28/08/2021,12+,229,0
+female,ultra-Orthodox Jews,80+,JanB,28/08/2021,2nd,271,0
+female,ultra-Orthodox Jews,80+,JanB,28/08/2021,12+,2309,0
+female,ultra-Orthodox Jews,80+,FebA,28/08/2021,2nd,344,0
+female,ultra-Orthodox Jews,80+,FebA,28/08/2021,12+,1108,0
+female,ultra-Orthodox Jews,80+,FebB,28/08/2021,2nd,107,0
+female,ultra-Orthodox Jews,80+,FebB,28/08/2021,12+,136,0
+male,General Jewish,60-69,JanB,28/08/2021,2nd,7783,0.77091096
+male,General Jewish,60-69,JanB,28/08/2021,12+,113329,0.052943201
+male,General Jewish,60-69,FebA,28/08/2021,2nd,10669,0.468647483
+male,General Jewish,60-69,FebA,28/08/2021,12+,41584,0.048095421
+male,General Jewish,60-69,FebB,28/08/2021,2nd,4470,0.894854586
+male,General Jewish,60-69,FebB,28/08/2021,12+,4757,0
+male,General Jewish,70-79,JanB,28/08/2021,2nd,4607,0.217060994
+male,General Jewish,70-79,JanB,28/08/2021,12+,108342,0.036920123
+male,General Jewish,70-79,FebA,28/08/2021,2nd,5046,0.594530321
+male,General Jewish,70-79,FebA,28/08/2021,12+,30586,0.163473485
+male,General Jewish,70-79,FebB,28/08/2021,2nd,1814,0.551267916
+male,General Jewish,70-79,FebB,28/08/2021,12+,2648,0.377643505
+male,General Jewish,80+,JanB,28/08/2021,2nd,2615,0.764818356
+male,General Jewish,80+,JanB,28/08/2021,12+,48933,0.040872213
+male,General Jewish,80+,FebA,28/08/2021,2nd,3340,0.299401198
+male,General Jewish,80+,FebA,28/08/2021,12+,16996,0.117674747
+male,General Jewish,80+,FebB,28/08/2021,2nd,1004,0
+male,General Jewish,80+,FebB,28/08/2021,12+,1384,0
+male,Arab,60-69,JanB,28/08/2021,2nd,1245,0
+male,Arab,60-69,JanB,28/08/2021,12+,6402,0
+male,Arab,60-69,FebA,28/08/2021,2nd,3198,0
+male,Arab,60-69,FebA,28/08/2021,12+,4850,0
+male,Arab,60-69,FebB,28/08/2021,2nd,1819,0
+male,Arab,60-69,FebB,28/08/2021,12+,1212,0
+male,Arab,70-79,JanB,28/08/2021,2nd,490,0
+male,Arab,70-79,JanB,28/08/2021,12+,3803,0.525900605
+male,Arab,70-79,FebA,28/08/2021,2nd,1287,0
+male,Arab,70-79,FebA,28/08/2021,12+,2857,0
+male,Arab,70-79,FebB,28/08/2021,2nd,643,0
+male,Arab,70-79,FebB,28/08/2021,12+,535,0
+male,Arab,80+,JanB,28/08/2021,2nd,208,0
+male,Arab,80+,JanB,28/08/2021,12+,1371,0.729394602
+male,Arab,80+,FebA,28/08/2021,2nd,532,0
+male,Arab,80+,FebA,28/08/2021,12+,993,0
+male,Arab,80+,FebB,28/08/2021,2nd,228,8.771929825
+male,Arab,80+,FebB,28/08/2021,12+,147,0
+male,ultra-Orthodox Jews,60-69,JanB,28/08/2021,2nd,473,0
+male,ultra-Orthodox Jews,60-69,JanB,28/08/2021,12+,4182,0
+male,ultra-Orthodox Jews,60-69,FebA,28/08/2021,2nd,675,1.481481481
+male,ultra-Orthodox Jews,60-69,FebA,28/08/2021,12+,1856,0
+male,ultra-Orthodox Jews,60-69,FebB,28/08/2021,2nd,324,0
+male,ultra-Orthodox Jews,60-69,FebB,28/08/2021,12+,308,0
+male,ultra-Orthodox Jews,70-79,JanB,28/08/2021,2nd,264,0
+male,ultra-Orthodox Jews,70-79,JanB,28/08/2021,12+,3773,0
+male,ultra-Orthodox Jews,70-79,FebA,28/08/2021,2nd,341,2.93255132
+male,ultra-Orthodox Jews,70-79,FebA,28/08/2021,12+,1344,0
+male,ultra-Orthodox Jews,70-79,FebB,28/08/2021,2nd,129,0
+male,ultra-Orthodox Jews,70-79,FebB,28/08/2021,12+,174,0
+male,ultra-Orthodox Jews,80+,JanB,28/08/2021,2nd,149,0
+male,ultra-Orthodox Jews,80+,JanB,28/08/2021,12+,1829,0
+male,ultra-Orthodox Jews,80+,FebA,28/08/2021,2nd,199,0
+male,ultra-Orthodox Jews,80+,FebA,28/08/2021,12+,737,0
+male,ultra-Orthodox Jews,80+,FebB,28/08/2021,2nd,57,0
+male,ultra-Orthodox Jews,80+,FebB,28/08/2021,12+,65,0
+female,General Jewish,60-69,JanB,29/08/2021,2nd,9954,1.306007635
+female,General Jewish,60-69,JanB,29/08/2021,12+,119417,0.092114188
+female,General Jewish,60-69,FebA,29/08/2021,2nd,14085,1.206957756
+female,General Jewish,60-69,FebA,29/08/2021,12+,47796,0.083689012
+female,General Jewish,60-69,FebB,29/08/2021,2nd,5839,1.198835417
+female,General Jewish,60-69,FebB,29/08/2021,12+,5490,0
+female,General Jewish,70-79,JanB,29/08/2021,2nd,5599,0.714413288
+female,General Jewish,70-79,JanB,29/08/2021,12+,113894,0.035120375
+female,General Jewish,70-79,FebA,29/08/2021,2nd,7522,1.329433661
+female,General Jewish,70-79,FebA,29/08/2021,12+,40422,0.148434021
+female,General Jewish,70-79,FebB,29/08/2021,2nd,2774,0.360490267
+female,General Jewish,70-79,FebB,29/08/2021,12+,3964,0
+female,General Jewish,80+,JanB,29/08/2021,2nd,4142,0.482858522
+female,General Jewish,80+,JanB,29/08/2021,12+,61279,0.163188042
+female,General Jewish,80+,FebA,29/08/2021,2nd,5678,1.232828461
+female,General Jewish,80+,FebA,29/08/2021,12+,26010,0.115340254
+female,General Jewish,80+,FebB,29/08/2021,2nd,1854,1.618122977
+female,General Jewish,80+,FebB,29/08/2021,12+,2467,0
+female,Arab,60-69,JanB,29/08/2021,2nd,1237,0.808407437
+female,Arab,60-69,JanB,29/08/2021,12+,4185,0
+female,Arab,60-69,FebA,29/08/2021,2nd,4078,0.245218244
+female,Arab,60-69,FebA,29/08/2021,12+,3998,0
+female,Arab,60-69,FebB,29/08/2021,2nd,2137,1.403837155
+female,Arab,60-69,FebB,29/08/2021,12+,936,0
+female,Arab,70-79,JanB,29/08/2021,2nd,637,0
+female,Arab,70-79,JanB,29/08/2021,12+,2692,0
+female,Arab,70-79,FebA,29/08/2021,2nd,2007,0.498256104
+female,Arab,70-79,FebA,29/08/2021,12+,2410,0
+female,Arab,70-79,FebB,29/08/2021,2nd,1030,0
+female,Arab,70-79,FebB,29/08/2021,12+,533,0
+female,Arab,80+,JanB,29/08/2021,2nd,384,0
+female,Arab,80+,JanB,29/08/2021,12+,1211,0.825763832
+female,Arab,80+,FebA,29/08/2021,2nd,817,0
+female,Arab,80+,FebA,29/08/2021,12+,997,0
+female,Arab,80+,FebB,29/08/2021,2nd,386,0
+female,Arab,80+,FebB,29/08/2021,12+,204,0
+female,ultra-Orthodox Jews,60-69,JanB,29/08/2021,2nd,458,2.183406114
+female,ultra-Orthodox Jews,60-69,JanB,29/08/2021,12+,4178,0
+female,ultra-Orthodox Jews,60-69,FebA,29/08/2021,2nd,764,1.308900524
+female,ultra-Orthodox Jews,60-69,FebA,29/08/2021,12+,2107,0.474608448
+female,ultra-Orthodox Jews,60-69,FebB,29/08/2021,2nd,410,2.43902439
+female,ultra-Orthodox Jews,60-69,FebB,29/08/2021,12+,327,0
+female,ultra-Orthodox Jews,70-79,JanB,29/08/2021,2nd,284,0
+female,ultra-Orthodox Jews,70-79,JanB,29/08/2021,12+,3981,0.502386335
+female,ultra-Orthodox Jews,70-79,FebA,29/08/2021,2nd,472,2.118644068
+female,ultra-Orthodox Jews,70-79,FebA,29/08/2021,12+,1864,0
+female,ultra-Orthodox Jews,70-79,FebB,29/08/2021,2nd,218,0
+female,ultra-Orthodox Jews,70-79,FebB,29/08/2021,12+,257,0
+female,ultra-Orthodox Jews,80+,JanB,29/08/2021,2nd,253,0
+female,ultra-Orthodox Jews,80+,JanB,29/08/2021,12+,2393,0
+female,ultra-Orthodox Jews,80+,FebA,29/08/2021,2nd,322,3.105590062
+female,ultra-Orthodox Jews,80+,FebA,29/08/2021,12+,1175,0.85106383
+female,ultra-Orthodox Jews,80+,FebB,29/08/2021,2nd,100,0
+female,ultra-Orthodox Jews,80+,FebB,29/08/2021,12+,144,0
+male,General Jewish,60-69,JanB,29/08/2021,2nd,7368,1.357220413
+male,General Jewish,60-69,JanB,29/08/2021,12+,116101,0.077518712
+male,General Jewish,60-69,FebA,29/08/2021,2nd,10127,0.59247556
+male,General Jewish,60-69,FebA,29/08/2021,12+,44147,0.113257979
+male,General Jewish,60-69,FebB,29/08/2021,2nd,4284,1.867413632
+male,General Jewish,60-69,FebB,29/08/2021,12+,5186,0.192826841
+male,General Jewish,70-79,JanB,29/08/2021,2nd,4400,0.227272727
+male,General Jewish,70-79,JanB,29/08/2021,12+,110130,0.099881958
+male,General Jewish,70-79,FebA,29/08/2021,2nd,4784,1.881270903
+male,General Jewish,70-79,FebA,29/08/2021,12+,31940,0.093926111
+male,General Jewish,70-79,FebB,29/08/2021,2nd,1738,1.726121979
+male,General Jewish,70-79,FebB,29/08/2021,12+,2866,0
+male,General Jewish,80+,JanB,29/08/2021,2nd,2519,0.793965859
+male,General Jewish,80+,JanB,29/08/2021,12+,49857,0.120344184
+male,General Jewish,80+,FebA,29/08/2021,2nd,3176,0.314861461
+male,General Jewish,80+,FebA,29/08/2021,12+,17755,0.337932977
+male,General Jewish,80+,FebB,29/08/2021,2nd,966,2.070393375
+male,General Jewish,80+,FebB,29/08/2021,12+,1496,0.668449198
+male,Arab,60-69,JanB,29/08/2021,2nd,1201,1.665278934
+male,Arab,60-69,JanB,29/08/2021,12+,6667,0
+male,Arab,60-69,FebA,29/08/2021,2nd,3103,0
+male,Arab,60-69,FebA,29/08/2021,12+,5213,0.383656244
+male,Arab,60-69,FebB,29/08/2021,2nd,1783,0.560852496
+male,Arab,60-69,FebB,29/08/2021,12+,1323,0
+male,Arab,70-79,JanB,29/08/2021,2nd,466,0
+male,Arab,70-79,JanB,29/08/2021,12+,3925,0
+male,Arab,70-79,FebA,29/08/2021,2nd,1255,0.796812749
+male,Arab,70-79,FebA,29/08/2021,12+,3056,0
+male,Arab,70-79,FebB,29/08/2021,2nd,622,0
+male,Arab,70-79,FebB,29/08/2021,12+,589,0
+male,Arab,80+,JanB,29/08/2021,2nd,202,0
+male,Arab,80+,JanB,29/08/2021,12+,1442,0
+male,Arab,80+,FebA,29/08/2021,2nd,516,0
+male,Arab,80+,FebA,29/08/2021,12+,1076,0.92936803
+male,Arab,80+,FebB,29/08/2021,2nd,227,4.405286344
+male,Arab,80+,FebB,29/08/2021,12+,167,0
+male,ultra-Orthodox Jews,60-69,JanB,29/08/2021,2nd,444,2.252252252
+male,ultra-Orthodox Jews,60-69,JanB,29/08/2021,12+,4328,0
+male,ultra-Orthodox Jews,60-69,FebA,29/08/2021,2nd,632,4.746835443
+male,ultra-Orthodox Jews,60-69,FebA,29/08/2021,12+,2000,0.5
+male,ultra-Orthodox Jews,60-69,FebB,29/08/2021,2nd,302,9.933774834
+male,ultra-Orthodox Jews,60-69,FebB,29/08/2021,12+,342,0
+male,ultra-Orthodox Jews,70-79,JanB,29/08/2021,2nd,240,0
+male,ultra-Orthodox Jews,70-79,JanB,29/08/2021,12+,3866,0.258665287
+male,ultra-Orthodox Jews,70-79,FebA,29/08/2021,2nd,319,6.269592476
+male,ultra-Orthodox Jews,70-79,FebA,29/08/2021,12+,1419,0.704721635
+male,ultra-Orthodox Jews,70-79,FebB,29/08/2021,2nd,122,0
+male,ultra-Orthodox Jews,70-79,FebB,29/08/2021,12+,197,0
+male,ultra-Orthodox Jews,80+,JanB,29/08/2021,2nd,141,7.092198582
+male,ultra-Orthodox Jews,80+,JanB,29/08/2021,12+,1879,0
+male,ultra-Orthodox Jews,80+,FebA,29/08/2021,2nd,183,0
+male,ultra-Orthodox Jews,80+,FebA,29/08/2021,12+,789,0
+male,ultra-Orthodox Jews,80+,FebB,29/08/2021,2nd,53,0
+male,ultra-Orthodox Jews,80+,FebB,29/08/2021,12+,77,0
+female,General Jewish,60-69,JanB,30/08/2021,2nd,9380,0.319829424
+female,General Jewish,60-69,JanB,30/08/2021,12+,122012,0.081959152
+female,General Jewish,60-69,FebA,30/08/2021,2nd,13323,0.825639871
+female,General Jewish,60-69,FebA,30/08/2021,12+,50303,0.09939765
+female,General Jewish,60-69,FebB,30/08/2021,2nd,5596,1.250893495
+female,General Jewish,60-69,FebB,30/08/2021,12+,5979,0
+female,General Jewish,70-79,JanB,30/08/2021,2nd,5279,0.378859633
+female,General Jewish,70-79,JanB,30/08/2021,12+,115631,0.051889199
+female,General Jewish,70-79,FebA,30/08/2021,2nd,7103,1.689427003
+female,General Jewish,70-79,FebA,30/08/2021,12+,42100,0.023752969
+female,General Jewish,70-79,FebB,30/08/2021,2nd,2652,2.639517345
+female,General Jewish,70-79,FebB,30/08/2021,12+,4260,0
+female,General Jewish,80+,JanB,30/08/2021,2nd,3927,0.254647313
+female,General Jewish,80+,JanB,30/08/2021,12+,62457,0.080055078
+female,General Jewish,80+,FebA,30/08/2021,2nd,5355,0.746965453
+female,General Jewish,80+,FebA,30/08/2021,12+,27078,0
+female,General Jewish,80+,FebB,30/08/2021,2nd,1771,0.564652739
+female,General Jewish,80+,FebB,30/08/2021,12+,2654,0.376789751
+female,Arab,60-69,JanB,30/08/2021,2nd,1197,3.341687552
+female,Arab,60-69,JanB,30/08/2021,12+,4346,0
+female,Arab,60-69,FebA,30/08/2021,2nd,3960,1.262626263
+female,Arab,60-69,FebA,30/08/2021,12+,4328,0.231053604
+female,Arab,60-69,FebB,30/08/2021,2nd,2087,0
+female,Arab,60-69,FebB,30/08/2021,12+,1048,0
+female,Arab,70-79,JanB,30/08/2021,2nd,614,0
+female,Arab,70-79,JanB,30/08/2021,12+,2798,0
+female,Arab,70-79,FebA,30/08/2021,2nd,1947,1.027221366
+female,Arab,70-79,FebA,30/08/2021,12+,2593,0
+female,Arab,70-79,FebB,30/08/2021,2nd,1007,0
+female,Arab,70-79,FebB,30/08/2021,12+,595,0
+female,Arab,80+,JanB,30/08/2021,2nd,368,2.717391304
+female,Arab,80+,JanB,30/08/2021,12+,1271,0
+female,Arab,80+,FebA,30/08/2021,2nd,794,2.518891688
+female,Arab,80+,FebA,30/08/2021,12+,1070,0
+female,Arab,80+,FebB,30/08/2021,2nd,378,5.291005291
+female,Arab,80+,FebB,30/08/2021,12+,235,0
+female,ultra-Orthodox Jews,60-69,JanB,30/08/2021,2nd,422,0
+female,ultra-Orthodox Jews,60-69,JanB,30/08/2021,12+,4295,0
+female,ultra-Orthodox Jews,60-69,FebA,30/08/2021,2nd,706,1.416430595
+female,ultra-Orthodox Jews,60-69,FebA,30/08/2021,12+,2202,0
+female,ultra-Orthodox Jews,60-69,FebB,30/08/2021,2nd,375,2.666666667
+female,ultra-Orthodox Jews,60-69,FebB,30/08/2021,12+,352,0
+female,ultra-Orthodox Jews,70-79,JanB,30/08/2021,2nd,262,0
+female,ultra-Orthodox Jews,70-79,JanB,30/08/2021,12+,4060,0
+female,ultra-Orthodox Jews,70-79,FebA,30/08/2021,2nd,447,0
+female,ultra-Orthodox Jews,70-79,FebA,30/08/2021,12+,1938,0
+female,ultra-Orthodox Jews,70-79,FebB,30/08/2021,2nd,203,0
+female,ultra-Orthodox Jews,70-79,FebB,30/08/2021,12+,272,0
+female,ultra-Orthodox Jews,80+,JanB,30/08/2021,2nd,248,4.032258065
+female,ultra-Orthodox Jews,80+,JanB,30/08/2021,12+,2438,0.410172272
+female,ultra-Orthodox Jews,80+,FebA,30/08/2021,2nd,299,0
+female,ultra-Orthodox Jews,80+,FebA,30/08/2021,12+,1217,0
+female,ultra-Orthodox Jews,80+,FebB,30/08/2021,2nd,95,0
+female,ultra-Orthodox Jews,80+,FebB,30/08/2021,12+,153,0
+male,General Jewish,60-69,JanB,30/08/2021,2nd,6929,0.865925819
+male,General Jewish,60-69,JanB,30/08/2021,12+,118325,0.101415593
+male,General Jewish,60-69,FebA,30/08/2021,2nd,9593,1.04242677
+male,General Jewish,60-69,FebA,30/08/2021,12+,46212,0.086557604
+male,General Jewish,60-69,FebB,30/08/2021,2nd,4120,0.485436893
+male,General Jewish,60-69,FebB,30/08/2021,12+,5597,0.357334286
+male,General Jewish,70-79,JanB,30/08/2021,2nd,4199,0.952607764
+male,General Jewish,70-79,JanB,30/08/2021,12+,111492,0.170415815
+male,General Jewish,70-79,FebA,30/08/2021,2nd,4546,0.879894413
+male,General Jewish,70-79,FebA,30/08/2021,12+,33090,0.271985494
+male,General Jewish,70-79,FebB,30/08/2021,2nd,1661,1.204093919
+male,General Jewish,70-79,FebB,30/08/2021,12+,3066,0.32615786
+male,General Jewish,80+,JanB,30/08/2021,2nd,2407,0.415454923
+male,General Jewish,80+,JanB,30/08/2021,12+,50609,0.118555988
+male,General Jewish,80+,FebA,30/08/2021,2nd,3007,1.330229465
+male,General Jewish,80+,FebA,30/08/2021,12+,18380,0.054406964
+male,General Jewish,80+,FebB,30/08/2021,2nd,917,2.181025082
+male,General Jewish,80+,FebB,30/08/2021,12+,1612,0.620347395
+male,Arab,60-69,JanB,30/08/2021,2nd,1135,1.762114537
+male,Arab,60-69,JanB,30/08/2021,12+,6858,0
+male,Arab,60-69,FebA,30/08/2021,2nd,2992,0.668449198
+male,Arab,60-69,FebA,30/08/2021,12+,5564,0
+male,Arab,60-69,FebB,30/08/2021,2nd,1730,1.156069364
+male,Arab,60-69,FebB,30/08/2021,12+,1427,0
+male,Arab,70-79,JanB,30/08/2021,2nd,446,0
+male,Arab,70-79,JanB,30/08/2021,12+,4029,0
+male,Arab,70-79,FebA,30/08/2021,2nd,1212,0
+male,Arab,70-79,FebA,30/08/2021,12+,3231,0
+male,Arab,70-79,FebB,30/08/2021,2nd,603,0
+male,Arab,70-79,FebB,30/08/2021,12+,650,0
+male,Arab,80+,JanB,30/08/2021,2nd,188,0
+male,Arab,80+,JanB,30/08/2021,12+,1479,0
+male,Arab,80+,FebA,30/08/2021,2nd,503,0
+male,Arab,80+,FebA,30/08/2021,12+,1167,0
+male,Arab,80+,FebB,30/08/2021,2nd,218,0
+male,Arab,80+,FebB,30/08/2021,12+,193,0
+male,ultra-Orthodox Jews,60-69,JanB,30/08/2021,2nd,414,0
+male,ultra-Orthodox Jews,60-69,JanB,30/08/2021,12+,4443,0
+male,ultra-Orthodox Jews,60-69,FebA,30/08/2021,2nd,598,3.344481605
+male,ultra-Orthodox Jews,60-69,FebA,30/08/2021,12+,2109,0
+male,ultra-Orthodox Jews,60-69,FebB,30/08/2021,2nd,284,0
+male,ultra-Orthodox Jews,60-69,FebB,30/08/2021,12+,365,0
+male,ultra-Orthodox Jews,70-79,JanB,30/08/2021,2nd,227,0
+male,ultra-Orthodox Jews,70-79,JanB,30/08/2021,12+,3931,0
+male,ultra-Orthodox Jews,70-79,FebA,30/08/2021,2nd,300,0
+male,ultra-Orthodox Jews,70-79,FebA,30/08/2021,12+,1465,0
+male,ultra-Orthodox Jews,70-79,FebB,30/08/2021,2nd,114,8.771929825
+male,ultra-Orthodox Jews,70-79,FebB,30/08/2021,12+,210,4.761904762
+male,ultra-Orthodox Jews,80+,JanB,30/08/2021,2nd,132,7.575757576
+male,ultra-Orthodox Jews,80+,JanB,30/08/2021,12+,1914,0
+male,ultra-Orthodox Jews,80+,FebA,30/08/2021,2nd,176,5.681818182
+male,ultra-Orthodox Jews,80+,FebA,30/08/2021,12+,812,0
+male,ultra-Orthodox Jews,80+,FebB,30/08/2021,2nd,51,0
+male,ultra-Orthodox Jews,80+,FebB,30/08/2021,12+,85,0
+female,General Jewish,60-69,JanB,31/08/2021,2nd,8832,0.679347826
+female,General Jewish,60-69,JanB,31/08/2021,12+,124464,0.064275614
+female,General Jewish,60-69,FebA,31/08/2021,2nd,12644,0.869977855
+female,General Jewish,60-69,FebA,31/08/2021,12+,52760,0.037907506
+female,General Jewish,60-69,FebB,31/08/2021,2nd,5360,0.186567164
+female,General Jewish,60-69,FebB,31/08/2021,12+,6478,0.154368632
+female,General Jewish,70-79,JanB,31/08/2021,2nd,5001,0.399920016
+female,General Jewish,70-79,JanB,31/08/2021,12+,117009,0.034185405
+female,General Jewish,70-79,FebA,31/08/2021,2nd,6745,0.593031875
+female,General Jewish,70-79,FebA,31/08/2021,12+,43453,0.138080225
+female,General Jewish,70-79,FebB,31/08/2021,2nd,2539,0.787711698
+female,General Jewish,70-79,FebB,31/08/2021,12+,4504,0
+female,General Jewish,80+,JanB,31/08/2021,2nd,3747,0.266880171
+female,General Jewish,80+,JanB,31/08/2021,12+,63359,0.06313231
+female,General Jewish,80+,FebA,31/08/2021,2nd,5048,0.792393027
+female,General Jewish,80+,FebA,31/08/2021,12+,27942,0.107365257
+female,General Jewish,80+,FebB,31/08/2021,2nd,1691,1.182732111
+female,General Jewish,80+,FebB,31/08/2021,12+,2812,0
+female,Arab,60-69,JanB,31/08/2021,2nd,1161,0
+female,Arab,60-69,JanB,31/08/2021,12+,4499,0.222271616
+female,Arab,60-69,FebA,31/08/2021,2nd,3838,1.042209484
+female,Arab,60-69,FebA,31/08/2021,12+,4581,0.218292949
+female,Arab,60-69,FebB,31/08/2021,2nd,2045,1.466992665
+female,Arab,60-69,FebB,31/08/2021,12+,1150,0
+female,Arab,70-79,JanB,31/08/2021,2nd,594,0
+female,Arab,70-79,JanB,31/08/2021,12+,2869,0
+female,Arab,70-79,FebA,31/08/2021,2nd,1887,0.529941706
+female,Arab,70-79,FebA,31/08/2021,12+,2752,0
+female,Arab,70-79,FebB,31/08/2021,2nd,982,1.018329939
+female,Arab,70-79,FebB,31/08/2021,12+,648,0
+female,Arab,80+,JanB,31/08/2021,2nd,346,2.89017341
+female,Arab,80+,JanB,31/08/2021,12+,1328,0
+female,Arab,80+,FebA,31/08/2021,2nd,760,0
+female,Arab,80+,FebA,31/08/2021,12+,1133,0
+female,Arab,80+,FebB,31/08/2021,2nd,370,0
+female,Arab,80+,FebB,31/08/2021,12+,255,0
+female,ultra-Orthodox Jews,60-69,JanB,31/08/2021,2nd,382,2.617801047
+female,ultra-Orthodox Jews,60-69,JanB,31/08/2021,12+,4405,0.227014756
+female,ultra-Orthodox Jews,60-69,FebA,31/08/2021,2nd,661,0
+female,ultra-Orthodox Jews,60-69,FebA,31/08/2021,12+,2331,0
+female,ultra-Orthodox Jews,60-69,FebB,31/08/2021,2nd,353,2.83286119
+female,ultra-Orthodox Jews,60-69,FebB,31/08/2021,12+,399,0
+female,ultra-Orthodox Jews,70-79,JanB,31/08/2021,2nd,247,8.097165992
+female,ultra-Orthodox Jews,70-79,JanB,31/08/2021,12+,4147,0.241138172
+female,ultra-Orthodox Jews,70-79,FebA,31/08/2021,2nd,429,2.331002331
+female,ultra-Orthodox Jews,70-79,FebA,31/08/2021,12+,2021,0
+female,ultra-Orthodox Jews,70-79,FebB,31/08/2021,2nd,191,5.235602094
+female,ultra-Orthodox Jews,70-79,FebB,31/08/2021,12+,288,0
+female,ultra-Orthodox Jews,80+,JanB,31/08/2021,2nd,234,0
+female,ultra-Orthodox Jews,80+,JanB,31/08/2021,12+,2504,0.798722045
+female,ultra-Orthodox Jews,80+,FebA,31/08/2021,2nd,284,3.521126761
+female,ultra-Orthodox Jews,80+,FebA,31/08/2021,12+,1282,0
+female,ultra-Orthodox Jews,80+,FebB,31/08/2021,2nd,88,0
+female,ultra-Orthodox Jews,80+,FebB,31/08/2021,12+,160,0
+male,General Jewish,60-69,JanB,31/08/2021,2nd,6566,0.609198903
+male,General Jewish,60-69,JanB,31/08/2021,12+,120220,0.116453169
+male,General Jewish,60-69,FebA,31/08/2021,2nd,9036,1.328021248
+male,General Jewish,60-69,FebA,31/08/2021,12+,48228,0.020734843
+male,General Jewish,60-69,FebB,31/08/2021,2nd,3943,1.014455998
+male,General Jewish,60-69,FebB,31/08/2021,12+,6019,0.166140555
+male,General Jewish,70-79,JanB,31/08/2021,2nd,3999,0.250062516
+male,General Jewish,70-79,JanB,31/08/2021,12+,112575,0.106595603
+male,General Jewish,70-79,FebA,31/08/2021,2nd,4302,0.232450023
+male,General Jewish,70-79,FebA,31/08/2021,12+,34077,0.029345306
+male,General Jewish,70-79,FebB,31/08/2021,2nd,1591,0
+male,General Jewish,70-79,FebB,31/08/2021,12+,3241,0
+male,General Jewish,80+,JanB,31/08/2021,2nd,2313,0.432338954
+male,General Jewish,80+,JanB,31/08/2021,12+,51175,0.117244748
+male,General Jewish,80+,FebA,31/08/2021,2nd,2851,0.701508243
+male,General Jewish,80+,FebA,31/08/2021,12+,18935,0.264061262
+male,General Jewish,80+,FebB,31/08/2021,2nd,871,1.148105626
+male,General Jewish,80+,FebB,31/08/2021,12+,1703,0
+male,Arab,60-69,JanB,31/08/2021,2nd,1083,1.846722068
+male,Arab,60-69,JanB,31/08/2021,12+,7058,0
+male,Arab,60-69,FebA,31/08/2021,2nd,2898,1.725327812
+male,Arab,60-69,FebA,31/08/2021,12+,5843,0
+male,Arab,60-69,FebB,31/08/2021,2nd,1693,1.181334908
+male,Arab,60-69,FebB,31/08/2021,12+,1517,0.659195781
+male,Arab,70-79,JanB,31/08/2021,2nd,432,2.314814815
+male,Arab,70-79,JanB,31/08/2021,12+,4104,0.243664717
+male,Arab,70-79,FebA,31/08/2021,2nd,1167,0.856898029
+male,Arab,70-79,FebA,31/08/2021,12+,3367,0.297000297
+male,Arab,70-79,FebB,31/08/2021,2nd,591,0
+male,Arab,70-79,FebB,31/08/2021,12+,684,0
+male,Arab,80+,JanB,31/08/2021,2nd,184,0
+male,Arab,80+,JanB,31/08/2021,12+,1509,0
+male,Arab,80+,FebA,31/08/2021,2nd,485,0
+male,Arab,80+,FebA,31/08/2021,12+,1219,0
+male,Arab,80+,FebB,31/08/2021,2nd,217,0
+male,Arab,80+,FebB,31/08/2021,12+,208,0
+male,ultra-Orthodox Jews,60-69,JanB,31/08/2021,2nd,385,0
+male,ultra-Orthodox Jews,60-69,JanB,31/08/2021,12+,4547,0.219925225
+male,ultra-Orthodox Jews,60-69,FebA,31/08/2021,2nd,548,1.824817518
+male,ultra-Orthodox Jews,60-69,FebA,31/08/2021,12+,2224,0
+male,ultra-Orthodox Jews,60-69,FebB,31/08/2021,2nd,268,0
+male,ultra-Orthodox Jews,60-69,FebB,31/08/2021,12+,396,2.525252525
+male,ultra-Orthodox Jews,70-79,JanB,31/08/2021,2nd,211,0
+male,ultra-Orthodox Jews,70-79,JanB,31/08/2021,12+,3992,0.751503006
+male,ultra-Orthodox Jews,70-79,FebA,31/08/2021,2nd,275,0
+male,ultra-Orthodox Jews,70-79,FebA,31/08/2021,12+,1535,0.651465798
+male,ultra-Orthodox Jews,70-79,FebB,31/08/2021,2nd,107,0
+male,ultra-Orthodox Jews,70-79,FebB,31/08/2021,12+,220,0
+male,ultra-Orthodox Jews,80+,JanB,31/08/2021,2nd,126,0
+male,ultra-Orthodox Jews,80+,JanB,31/08/2021,12+,1944,1.028806584
+male,ultra-Orthodox Jews,80+,FebA,31/08/2021,2nd,166,0
+male,ultra-Orthodox Jews,80+,FebA,31/08/2021,12+,846,1.182033097
+male,ultra-Orthodox Jews,80+,FebB,31/08/2021,2nd,48,0
+male,ultra-Orthodox Jews,80+,FebB,31/08/2021,12+,92,0
